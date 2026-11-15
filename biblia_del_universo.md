@@ -641,7 +641,7 @@ Los círculos flotantes de El Velo no son solo metas, sino **generadores de micr
 
 #### **2060-2080: POST-INUNDACIÓN**
 - **2060-2070**: Asentamiento de refugiados en periferias
-- **2065**: Desarrollo de tecnología de levitación vehicular
+- **2065**: Desarrollo de tecnología de levitación vehicular (tras el descubrimiento bisagra de un acoplamiento gravito-electromagnético estable en laboratorio, que aceleró en décadas la física aplicada)
 - **2070**: Primeros prototipos de propulsores gravitacionales
 - **2075**: Comercialización limitada de motowaves
 - **2078**: Goglee Corp lanza **El Velo Gravitacional** (primera edición)
