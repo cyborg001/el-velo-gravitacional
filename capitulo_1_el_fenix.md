@@ -1,4 +1,4 @@
-# PRÓLOGO: EL REGALO
+# CAPÍTULO 1: EL FÉNIX
 
 ## 3 de febrero de 2114
 
@@ -54,4 +54,4 @@ Carlos lo observó en silencio, con una mezcla de orgullo y una sombra de advert
 
 ---
 
-**FIN DEL PRÓLOGO**
+**FIN DEL CAPÍTULO 1**
