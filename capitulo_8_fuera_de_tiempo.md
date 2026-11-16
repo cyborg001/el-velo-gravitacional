@@ -24,15 +24,15 @@ De repente, la lámpara del techo vibró con un zumbido grave y el suelo se sacu
 
 En cuestión de minutos, la ciudad entera era un caos. Terremotos profundos y alertas de maremoto sacudían las pantallas públicas mientras miles de ciudadanos se agolpaban desesperados contra las murallas del domo. Al llegar a la compuerta principal, un pelotón de guardias reconoció a Nathan y a Unika, abriéndose paso a la fuerza entre la multitud.
 
-Nathan llegó acompañado de Charlie, Rafa y Eva; Unika iba con su hermana menor aferrada a su mano, y Sony caminaba justo detrás. Sin embargo, al cruzar el umbral blindado, los guardias cerraron el paso a Charlie, Rafa y Eva.
+Nathan llegó acompañado de Charlie, Rafa y Jeisly; Unika iba con su hermana menor aferrada a su mano, y Sony caminaba justo detrás. Sin embargo, al cruzar el umbral blindado, los guardias cerraron el paso a Charlie, Rafa y Jeisly.
 
 —Solo pueden pasar dos acompañantes por piloto —sentenció el oficial al mando mientras Unika y su hermana cruzaban hacia el interior.
 
-Nathan se quedó paralizado frente a sus tres seres queridos. Rafa, huérfano criado en las calles, y Eva eran sus hermanos del alma; Charlie era su padre, su raíz entera.
+Nathan se quedó paralizado frente a sus tres seres queridos. Rafa, huérfano criado en las calles, y Jeisly eran sus hermanos del alma; Charlie era su padre, su raíz entera.
 
 —No, él viene conmigo —exigió Nathan, pero Charlie puso sus manos callosas sobre los hombros de su hijo y negó con una sonrisa triste que no lograba ocultar el temblor de su voz.
 
-—Mijo, mírame —susurró Charlie, ahogando una tos seca—. Estoy viejo y mis pulmones están llenos del óxido de este distrito. No sobreviviría a otro mundo. Llévate a Rafa y a Eva. ¡Vete, hijo, vete ya! ¡Estaré bien!
+—Mijo, mírame —susurró Charlie, ahogando una tos seca—. Estoy viejo y mis pulmones están llenos del óxido de este distrito. No sobreviviría a otro mundo. Llévate a Rafa y a Jeisly. ¡Vete, hijo, vete ya! ¡Estaré bien!
 
 Las lágrimas brotaron sin control mientras se abrazaban por última vez. El tumulto de la multitud empujó hacia atrás y, en cuestión de segundos, la figura de Charlie se perdió entre el polvo y la gente justo cuando las enormes compuertas de Goglee City se sellaron con un estruendo metálico definitivo.
 
@@ -40,7 +40,7 @@ Las lágrimas brotaron sin control mientras se abrazaban por última vez. El tum
 
 ## El Deucalión
 
-Guiados por los guardias hacia los niveles subterráneos, Nathan, Sony, Rafa, Eva y Unika descendieron hasta un complejo inmenso que parecía un barrio entero enterrado bajo la ciudad. Allí aguardaban unas cincuenta familias seleccionadas, técnicos y científicos corriendo entre plataformas iluminadas.
+Guiados por los guardias hacia los niveles subterráneos, Nathan, Sony, Rafa, Jeisly y Unika descendieron hasta un complejo inmenso que parecía un barrio entero enterrado bajo la ciudad. Allí aguardaban unas cincuenta familias seleccionadas, técnicos y científicos corriendo entre plataformas iluminadas.
 
 Y en el centro del hangar cavernoso, suspendida sobre campos magnéticos, se alzaba *El Deucalión*: una nave majestuosa, gigantesca y estética, equipada con potentes propulsores antigravitacionales verticales.
 
@@ -84,7 +84,7 @@ De golpe, el rugido desapareció. Ante ellos se reveló un sendero cristalino, s
 
 Frente a las ventanas del puente brillaba un mundo nuevo: una Supertierra cinco veces mayor que la Tierra, cubierta de océanos azules profundos y continentes verdes, bañada por la luz serena de un sol amarillo estable.
 
-La nave entera estalló en gritos, saltos y abrazos. Sony, Rafa, Eva y Unika corrieron hacia el puente mientras la madre de Nathan se abría paso hasta quedar frente a él.
+La nave entera estalló en gritos, saltos y abrazos. Sony, Rafa, Jeisly y Unika corrieron hacia el puente mientras la madre de Nathan se abría paso hasta quedar frente a él.
 
 —Sabía que podías lograrlo —le dijo ella con los ojos brillando de orgullo.
 

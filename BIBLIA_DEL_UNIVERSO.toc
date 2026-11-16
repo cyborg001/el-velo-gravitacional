@@ -8,7 +8,7 @@
 \contentsline {subsection}{\numberline {1.4.2}CHARLIE RAMÍREZ}{5}{subsection.1.4.2}%
 \contentsline {section}{\numberline {1.5}PERSONAJES SECUNDARIOS}{6}{section.1.5}%
 \contentsline {subsection}{\numberline {1.5.1}CÍRCULO CERCANO DE NATHAN (PERIODO DE APRENDIZAJE)}{6}{subsection.1.5.1}%
-\contentsline {subsubsection}{EVA RAMÍREZ}{6}{section*.2}%
+\contentsline {subsubsection}{JEISLY RAMÍREZ}{6}{section*.2}%
 \contentsline {subsubsection}{RAFA (RAFAEL)}{7}{section*.3}%
 \contentsline {subsubsection}{TOMÁS "EL VIEJO TORO" VEGA}{7}{section*.4}%
 \contentsline {subsubsection}{UNIKA}{9}{section*.5}%

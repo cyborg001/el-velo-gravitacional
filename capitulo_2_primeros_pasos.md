@@ -38,17 +38,17 @@ Nathan se rió, agradecido por la oferta. Rafa era un genio improvisando circuit
 
 ---
 
-Al mediodía, el calor se volvió denso y el aire en el taller se estancó. Eva llegó como un torbellino, cargando una bolsa que emanaba el aroma celestial del arroz con habichuelas.
+Al mediodía, el calor se volvió denso y el aire en el taller se estancó. Jeisly llegó como un torbellino, cargando una bolsa que emanaba el aroma celestial del arroz con habichuelas.
 
-—¡Mierda loco, qué jebi está esa vaina! —soltó Eva nada más ver la moto sobre el caballete—. ¡Dime que no es verdad, primo! ¿De verdad vamos a poner a volar este hierro?
+—¡Mierda loco, qué jebi está esa vaina! —soltó Jeisly nada más ver la moto sobre el caballete—. ¡Dime que no es verdad, primo! ¿De verdad vamos a poner a volar este hierro?
 
-—Esa es la idea, Eva —respondió Nathan, recibiendo la comida—. Pero todavía falta mucho.
+—Esa es la idea, Jeisly —respondió Nathan, recibiendo la comida—. Pero todavía falta mucho.
 
-Eva rodeó la moto con los ojos entrecerrados, como si estuviera encuadrando una pintura. Ella veía colores donde los demás veían óxido.
+Jeisly rodeó la moto con los ojos entrecerrados, como si estuviera encuadrando una pintura. Ella veía colores donde los demás veían óxido.
 
 —Tiene líneas potentes. De verdad. Cuando esté lista, yo le voy a meter un diseño que la gente va a creer que es una nave de la Ciudad Aérea. Quiero que el Fénix se vea desde el domo.
 
-Acompañando a Eva estaba Unika. Ella, al contrario que la prima de Nathan, se mantuvo en silencio unos instantes, observando la estructura con una mirada analítica y calmada.
+Acompañando a Jeisly estaba Unika. Ella, al contrario que la prima de Nathan, se mantuvo en silencio unos instantes, observando la estructura con una mirada analítica y calmada.
 
 —Nathan, las especificaciones del fabricante para este modelo sugieren que el chasis debe ser reforzado —comentó Unika con su voz educada y precisa—. Si planeas alcanzar velocidades de carrera, los puntos de anclaje de los propulsores sufrirán una fatiga estructural inaceptable.
 
@@ -72,7 +72,7 @@ Nathan miró a su alrededor. Estaban todos allí: su padre, su mejor amigo, su p
 
 —No digas nada, manito —le cortó Rafa, dándole una palmada en la espalda—. Solo gana esa maldita carrera por nosotros.
 
-—¡Eso mismo! —añadió Eva con una carcajada—. Que si perdemos, vamos a tener que comer aire reciclado por tres meses para pagar los platos rotos.
+—¡Eso mismo! —añadió Jeisly con una carcajada—. Que si perdemos, vamos a tener que comer aire reciclado por tres meses para pagar los platos rotos.
 
 Esa noche, cuando el silencio finalmente reclamó el taller, Nathan se quedó solo frente a la carcasa desarmada de *El Fénix*. Con el cuaderno sobre las rodillas, miró su boceto. Ya no veía solo una moto vieja; veía el esfuerzo de su gente, la esperanza de un distrito entero que se negaba a ser olvidado. Se recostó contra la pared fría y cerró los ojos, imaginando el viento puro del domo golpeándole el rostro.
 

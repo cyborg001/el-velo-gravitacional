@@ -68,7 +68,7 @@ Un zumbido sordo empezó a vibrar en el taller. Las herramientas sobre las mesas
 
 —¡Wepa! ¡Lo logramos! —gritó Rafa, lanzando su gorra al aire.
 
-—¡Mierda, primo, que eso está volando de verdad! —exclamó Eva, grabando la escena con su terminal.
+—¡Mierda, primo, que eso está volando de verdad! —exclamó Jeisly, grabando la escena con su terminal.
 
 Nathan sentía la moto vibrar bajo él, como un animal salvaje que empezaba a despertar. La adrenalina le recorría el cuerpo. Ya no era solo un sueño; era una realidad que flotaba frente a sus ojos.
 

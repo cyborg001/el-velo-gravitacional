@@ -50,7 +50,7 @@
   - Criado solo por su padre Charlie
   - **Experiencia de pilotaje previa**: Piloto empírico desde los 14 años. Como aprendiz en el taller, realizaba las pruebas dinámicas y calibraciones de deslizadores y motowaves utilitarias de clientes en los cañones de chatarra del Distrito RD. Es durante estos vuelos a ras de suelo donde su cerebro comenzó a experimentar micro-despertares sensoriales ante las distorsiones de gravedad.
   - Recibió su primer chasis de competición propio como regalo de cumpleaños (17 años)
-  - Pasó 10 meses transformándola en "El Fénix" junto a su equipo (Unika, Rafa, Eva)
+  - Pasó 10 meses transformándola en "El Fénix" junto a su equipo (Unika, Rafa, Jeisly)
 - **Objetivo**: Ganar El Velo Gravitacional para conseguir ciudadanía y mejorar la vida de su padre y su gente
 - **Arco narrativo**: De soñador ingenuo a líder revolucionario
 
@@ -84,7 +84,7 @@
 
 ### CÍRCULO CERCANO DE NATHAN (PERIODO DE APRENDIZAJE)
 
-#### EVA RAMÍREZ
+#### JEISLY RAMÍREZ
 - **Relación**: Prima de Nathan (hija de hermano/hermana de Charlie)
 - **Edad**: 18 años (1 año mayor que Nathan)
 - **Fecha de nacimiento**: ~2096
@@ -186,7 +186,7 @@
 - **Rol en la historia**: 
   - Ingeniera de sistemas (especialista en el Inversor G)
   - Optimiza "El Fénix" con tecnología de grado corporativo modificada.
-  - Amiga cercana de Eva.
+  - Amiga cercana de Jeisly.
 - **Relación con Nathan**: Amistad técnica profunda. Ella guarda sentimientos románticos secretos. Es su apoyo intelectual y técnico fundamental.
 
 #### MARCOS
@@ -266,7 +266,7 @@
 - **Subplot potencial**: ¿Fue reclutada por corporación? ¿Murió? ¿Se fue voluntariamente?
 
 #### FAMILIA EXTENDIDA RAMÍREZ
-- **Padre/Madre de Eva**: Hermano/hermana de Charlie
+- **Padre/Madre de Jeisly**: Hermano/hermana de Charlie
 - **Otros primos**: Posible comunidad familiar más amplia en Distrito RD
 - **Abuelos de Nathan**: Refugiados originales de República Dominicana (fallecidos)
 
@@ -787,19 +787,19 @@ Los círculos flotantes de El Velo no son solo metas, sino **generadores de micr
 ### ELEMENTOS A DESARROLLAR
 
 - [ ] Descripción física detallada de Nathan
-- [ ] Descripción física de Eva, Rafa, Unika, Marcos
+- [ ] Descripción física de Jeisly, Rafa, Unika, Marcos
 - [ ] Nombre y backstory completa de la madre de Nathan
 - [ ] Mecanismo técnico de propulsores gravitacionales
 - [ ] Mecanismo técnico de estabilizadores de fase
 - [ ] Música y comida del Distrito RD
-- [x] Personajes del círculo cercano de Nathan (Eva, Rafa, Tomás, Unika, Marcos)
+- [x] Personajes del círculo cercano de Nathan (Jeisly, Rafa, Tomás, Unika, Marcos)
 - [ ] Detalles de la pista de El Velo
 - [ ] Estructura política de Goglee City
 - [ ] Otras ciudades-domo en el mundo
 - [ ] Desarrollo de la revolución post-rechazo
 - [ ] Historia completa de Tomás "El Viejo Toro" Vega (su victoria en 2082, castigo, pérdidas)
-- [ ] Familia extendida Ramírez (padres de Eva, otros primos)
-- [ ] Subplot del arte de Eva como resistencia
+- [ ] Familia extendida Ramírez (padres de Jeisly, otros primos)
+- [ ] Subplot del arte de Jeisly como resistencia
 - [ ] Desarrollo de la posible tensión romántica Nathan-Unika (admiración secreta de ella)
 
 ### PREGUNTAS ABIERTAS
