@@ -1,4 +1,4 @@
-# CAPÍTULO 6: EL VELO GRAVITACIONAL
+# CAPÍTULO 7: EL VELO GRAVITACIONAL
 
 La velocidad no es una cifra en un panel holográfico. Es una distorsión de la realidad.
 
@@ -82,4 +82,4 @@ Nathan Ramírez no solo había ganado una carrera. Había empezado una revoluci�
 
 ---
 
-**FIN DEL CAPÍTULO 6**
+**FIN DEL CAPÍTULO 7**

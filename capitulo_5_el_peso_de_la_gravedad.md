@@ -1,4 +1,4 @@
-# CAPÍTULO 4: EL PESO DE LA GRAVEDAD
+# CAPÍTULO 5: EL PESO DE LA GRAVEDAD
 
 ## Diciembre de 2114
 
@@ -76,4 +76,4 @@ El motor de *El Fénix* rugió, un grito de desafío que resonó en las paredes 
 
 ---
 
-**FIN DEL CAPÍTULO 4**
+**FIN DEL CAPÍTULO 5**

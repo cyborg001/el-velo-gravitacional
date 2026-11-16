@@ -1,4 +1,4 @@
-# CAPÍTULO 5: CHISPAS EN EL ÓXIDO
+# CAPÍTULO 6: CHISPAS EN EL ÓXIDO
 
 Los dos días siguientes fueron un borrón de grasa, sudor y el chirrido constante de las herramientas neumáticas. Nathan apenas durmió; cada vez que cerraba los ojos, veía líneas de geodésicas trazadas en el interior de sus párpados. *El Fénix* necesitaba ser más que una moto; necesitaba ser una parte de su sistema nervioso. En las afueras del Distrito RD, donde las ruinas de los antiguos rascacielos formaban cañones de metal oxidado que desafiaban la física, Nathan se dedicó a romper sus propios límites.
 
@@ -84,4 +84,4 @@ El mundo se invirtió. Nathan se lanzó al vacío, no como una víctima de la gr
 
 ---
 
-**FIN DEL CAPÍTULO 5**
+**FIN DEL CAPÍTULO 6**

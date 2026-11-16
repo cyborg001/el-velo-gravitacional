@@ -1,4 +1,4 @@
-# CAPÍTULO 2: EL CÍRCULO
+# CAPÍTULO 3: EL CÍRCULO
 
 ## Abril de 2114 - Dos meses después
 
@@ -104,4 +104,4 @@ Nathan la observó irse, sintiendo que ahora tenía otra razón más para ganar.
 
 ---
 
-**FIN DEL CAPÍTULO 2**
+**FIN DEL CAPÍTULO 3**

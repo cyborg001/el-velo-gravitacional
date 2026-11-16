@@ -1,4 +1,4 @@
-# CAPÍTULO 1: PRIMEROS PASOS
+# CAPÍTULO 2: PRIMEROS PASOS
 
 ## Febrero de 2114 - Una semana después del cumpleaños
 
@@ -86,4 +86,4 @@ Cerró los ojos y, en la oscuridad, elevó una plegaria silenciosa al cielo invi
 
 ---
 
-**FIN DEL CAPÍTULO 1**
+**FIN DEL CAPÍTULO 2**

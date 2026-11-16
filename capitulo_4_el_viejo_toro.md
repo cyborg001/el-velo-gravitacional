@@ -1,4 +1,4 @@
-# CAPÍTULO 3: EL VIEJO TORO
+# CAPÍTULO 4: EL VIEJO TORO
 
 ## Junio de 2114
 
@@ -90,4 +90,4 @@ Nathan tomó la tableta con reverencia. Era el legado prohibido del hombre que h
 
 ---
 
-**FIN DEL CAPÍTULO 3**
+**FIN DEL CAPÍTULO 4**
