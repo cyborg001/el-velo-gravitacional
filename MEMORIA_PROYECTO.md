@@ -7,7 +7,7 @@ Proyecto editorial y audiovisual de ciencia ficción / narrativa: **"El Velo Gra
 - [x] Redacción y compilación en LaTeX de `BIBLIA_DEL_UNIVERSO.pdf` y `COMPILADO_libro_PROFESIONAL.pdf`.
 - [x] Organización de `assets/` y `guiones_webapp/`.
 - [x] Conversión del antiguo Prólogo en **Capítulo 1: `EL FÉNIX`** en `COMPILADO_libro_PROFESIONAL.tex`.
-- [x] Sustitución de `Quisqueya` por **`La Bella, una isla que existía en el corazón del Caribe y que el mar se tragó en 2065`**.
+- [x] Sustitución de `La Bella` por **`La Bella, una isla que existía en el corazón del Caribe y que el mar se tragó en 2065`**.
 - [x] Definición de canon en `BIBLIA_DEL_UNIVERSO.tex`:
   - **El Velo Gravitacional** = la carrera de *Motowaves*.
   - **La Gran Anomalía** = el fenómeno astrofísico/gravitacional detectado en 2100.

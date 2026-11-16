@@ -57,7 +57,7 @@
 ### CHARLIE RAMÍREZ
 - **Edad**: 56 años (al inicio de la historia principal)
 - **Fecha de nacimiento**: 3 de enero de 2058
-- **Lugar de nacimiento**: Quisqueya (República Dominicana)
+- **Lugar de nacimiento**: La Bella (República Dominicana)
 - **Descripción física**: 
   - Robusto, fuerte (mantiene condición física)
   - Pelo gris
@@ -657,7 +657,7 @@ Los círculos flotantes de El Velo no son solo metas, sino **generadores de micr
 
 ```
 2058 (3 de enero)    - Nacimiento de CHARLIE RAMÍREZ
-                       (Nacido 7 años antes de La Gran Inundación en Quisqueya)
+                       (Nacido 7 años antes de La Gran Inundación en La Bella)
                        Hijo de refugiados dominicanos
 
 2058-2093            - Charlie crece en Distrito RD
