@@ -28,9 +28,9 @@ libros/el_velo_gravitacional/
 
 En el año 2114, el cambio climático ha devastado la Tierra. Las mega-corporaciones han construido domos protectores para las élites, mientras los descendientes de refugiados climáticos sobreviven en la periferia tóxica.
 
-Ethan Ramírez, un joven de 17 años del marginalizado Distrito RD, construye una motowave artesanal llamada "El Fénix" para competir en El Velo Gravitacional, una carrera mortal que promete ciudadanía en la privilegiada Goglee City.
+Nathan Ramírez, un joven de 17 años del marginalizado Distrito RD, construye una motowave artesanal llamada "El Fénix" para competir en El Velo Gravitacional, una carrera mortal que promete ciudadanía en la privilegiada Goglee City.
 
-Pero cuando Ethan gana y rechaza públicamente la ciudadanía, exigiendo justicia para su pueblo, se convierte en el símbolo de una revolución que podría cambiar el mundo.
+Pero cuando Nathan gana y rechaza públicamente la ciudadanía, exigiendo justicia para su pueblo, se convierte en el símbolo de una revolución que podría cambiar el mundo.
 
 ---
 
@@ -47,16 +47,16 @@ Pero cuando Ethan gana y rechaza públicamente la ciudadanía, exigiendo justici
 
 ## 👥 PERSONAJES PRINCIPALES
 
-### Ethan Ramírez
+### Nathan Ramírez
 - **Edad**: 17 años
 - **Nacimiento**: 3 de febrero de 2095
 - **Rol**: Protagonista, piloto de "El Fénix"
 - **Habilidad especial**: Puede "sentir" la gravedad
 
-### Carlos Ramírez
+### Charlie Ramírez
 - **Edad**: 56 años
 - **Nacimiento**: 3 de enero de 2058 (año de La Gran Inundación)
-- **Rol**: Padre de Ethan, mecánico y maestro
+- **Rol**: Padre de Nathan, mecánico y maestro
 - **Herencia**: Descendiente de refugiados dominicanos
 
 ### Sony
@@ -69,8 +69,8 @@ Pero cuando Ethan gana y rechaza públicamente la ciudadanía, exigiendo justici
 
 - **2058**: La Gran Inundación (derretimiento del Ártico)
 - **2060**: Fundación del Distrito RD
-- **2095**: Nacimiento de Ethan
-- **2100**: Desaparición de la madre de Ethan
+- **2095**: Nacimiento de Nathan
+- **2100**: Desaparición de la madre de Nathan
 - **2114**: Eventos de la historia principal
 
 ---
@@ -113,8 +113,8 @@ Pero cuando Ethan gana y rechaza públicamente la ciudadanía, exigiendo justici
 
 ## 🔧 ELEMENTOS A DESARROLLAR
 
-- [ ] Descripción física detallada de Ethan
-- [ ] Nombre y backstory de la madre de Ethan
+- [ ] Descripción física detallada de Nathan
+- [ ] Nombre y backstory de la madre de Nathan
 - [ ] Mecanismo técnico de propulsores gravitacionales
 - [ ] Mecanismo técnico de estabilizadores de fase
 - [ ] Música y comida del Distrito RD
@@ -141,7 +141,7 @@ Pero cuando Ethan gana y rechaza públicamente la ciudadanía, exigiendo justici
 
 **PARTE III: LA REVOLUCIÓN** (Enero 2115+)
 - Consecuencias del rechazo
-- Ethan como símbolo de resistencia
+- Nathan como símbolo de resistencia
 - Confrontación con el sistema
 
 ---
@@ -149,7 +149,7 @@ Pero cuando Ethan gana y rechaza públicamente la ciudadanía, exigiendo justici
 ## 📖 REFERENCIAS
 
 - **Biblia del Universo**: Consultar `biblia_del_universo.md` para detalles canónicos
-- **Guiones originales**: Ver carpeta `/guiones/` para versiones anteriores (Carlos)
+- **Guiones originales**: Ver carpeta `/guiones/` para versiones anteriores (Charlie)
 
 ---
 

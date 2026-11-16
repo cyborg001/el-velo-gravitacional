@@ -1,6 +1,6 @@
 # Plan de Integración de Rafa y Slang Caribeño
 
-Este plan detalla la incorporación sistemática de Rafa como soporte técnico y emocional de Ethan, enriqueciendo la atmósfera con slang caribeño ("klk") y profundizando en su lealtad.
+Este plan detalla la incorporación sistemática de Rafa como soporte técnico y emocional de Nathan, enriqueciendo la atmósfera con slang caribeño ("klk") y profundizando en su lealtad.
 
 ## Cambios Propuestos
 
@@ -9,7 +9,7 @@ Este plan detalla la incorporación sistemática de Rafa como soporte técnico y
 - [x] Definir "klk manín" y "manito" como términos clave de su lenguaje.
 
 ### Capítulo 1: Primeros Pasos [MODIFY]
-- [ ] Introducir a Rafa ayudando a Ethan en el taller después de recibir la moto.
+- [ ] Introducir a Rafa ayudando a Nathan en el taller después de recibir la moto.
 - [ ] Primer uso del saludo "Klk manín".
 
 ### Capítulo 2: El Círculo [MODIFY]
@@ -17,11 +17,11 @@ Este plan detalla la incorporación sistemática de Rafa como soporte técnico y
 - [ ] Reforzar su papel como soporte técnico ("el de los cables").
 
 ### Capítulo 4: El Peso de la Gravedad [MODIFY]
-- [ ] Incluir a Rafa ayudando en la instalación del estabilizador T-9 junto a Ethan.
+- [ ] Incluir a Rafa ayudando en la instalación del estabilizador T-9 junto a Nathan.
 
 ### Capítulo 5: Chispas en el Óxido [MODIFY]
 - [ ] Integrar a Rafa en la escena del radio/comunicación.
-- [ ] Insertar el flashback: Cuando tenían 8 años, Rafa escondió un receptor ilegal para proteger a Ethan de una patrulla de drones.
+- [ ] Insertar el flashback: Cuando tenían 8 años, Rafa escondió un receptor ilegal para proteger a Nathan de una patrulla de drones.
 - [ ] Mantener la dinámica de apoyo técnico activo.
 
 ### Sincronización
@@ -30,4 +30,4 @@ Este plan detalla la incorporación sistemática de Rafa como soporte técnico y
 
 ## Verificación
 - Comprobar que el uso del slang suena natural y no forzado.
-- Asegurar que la presencia de Rafa no eclipse a Ethan, sino que lo complemente.
+- Asegurar que la presencia de Rafa no eclipse a Nathan, sino que lo complemente.

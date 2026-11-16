@@ -23,13 +23,13 @@
 
 ## SINOPSIS GENERAL
 
-**El Velo Gravitacional** es una novela de ciencia ficción distópica ambientada en el año 2114, en un mundo devastado por el cambio climático antropogénico. La historia sigue a Ethan Ramírez, un joven piloto de 17 años del marginalizado Distrito RD, quien compite en una carrera mortal de manipulación gravitacional para ganar la ciudadanía en la privilegiada Goglee City. La narrativa explora temas de desigualdad social, identidad cultural, resistencia y el costo humano del progreso tecnológico descontrolado.
+**El Velo Gravitacional** es una novela de ciencia ficción distópica ambientada en el año 2114, en un mundo devastado por el cambio climático antropogénico. La historia sigue a Nathan Ramírez, un joven piloto de 17 años del marginalizado Distrito RD, quien compite en una carrera mortal de manipulación gravitacional para ganar la ciudadanía en la privilegiada Goglee City. La narrativa explora temas de desigualdad social, identidad cultural, resistencia y el costo humano del progreso tecnológico descontrolado.
 
 ---
 
 ## PERSONAJES PRINCIPALES
 
-### ETHAN RAMÍREZ
+### NATHAN RAMÍREZ
 - **Edad**: 17 años (al inicio de la historia principal)
 - **Fecha de nacimiento**: 3 de febrero de 2097
 - **Lugar de nacimiento**: Distrito RD, periferia de Goglee City
@@ -40,21 +40,21 @@
   - **Habilidad especial / El Despertar Gravitacional**:
     - **Sinestesia Gravitacional (El Despertar Neurovestibular)**: No se trata de magia ni de percepción mística; es una adaptación neurológica y evolutiva extremadamente rara (inspirada en la evolución de los *Newtypes* adaptados a nuevos entornos físicos). 
     - Tras casi un siglo de exposición humana a los inversores gravitacionales masivos de Goglee City, el cerebro de ciertos individuos excepcionales sufre una reconfiguración neurosensorial: el sistema vestibular (equilibrio) se enlaza directamente con la corteza visual.
-    - **Cómo funciona**: Su cerebro procesa los gradientes invisibles de curvatura del espacio-tiempo traduciéndolos instantáneamente en estímulos visuales (líneas de tensión, filamentos luminosos, valles y crestas). Lo que para los instrumentos de una máquina requiere cientos de cálculos por segundo, el cerebro de Ethan lo "ve" y anticipa de manera intuitiva y orgánica.
-    - **El Mito del Distrito RD**: En los talleres clandestinos y en las leyendas de las carreras se habla de esto como una suerte de profecía de resistencia: *la misma gravedad artificial que los domos usan para aplastar a la periferia está forzando a la humanidad a evolucionar para superarla*. Luna Reyes fue la pionera trágica de este despertar en 2084; Ethan es el primer piloto en el que la mutación se estabiliza.
+    - **Cómo funciona**: Su cerebro procesa los gradientes invisibles de curvatura del espacio-tiempo traduciéndolos instantáneamente en estímulos visuales (líneas de tensión, filamentos luminosos, valles y crestas). Lo que para los instrumentos de una máquina requiere cientos de cálculos por segundo, el cerebro de Nathan lo "ve" y anticipa de manera intuitiva y orgánica.
+    - **El Mito del Distrito RD**: En los talleres clandestinos y en las leyendas de las carreras se habla de esto como una suerte de profecía de resistencia: *la misma gravedad artificial que los domos usan para aplastar a la periferia está forzando a la humanidad a evolucionar para superarla*. Luna Reyes fue la pionera trágica de este despertar en 2084; Nathan es el primer piloto en el que la mutación se estabiliza.
     - **Visiones del Velo**: Sufre de sueños fragmentados y migrañas con destellos en HUD cian desde su adolescencia. Son los primeros síntomas de su red neuronal reconectándose y buscando un interfaz visual para interpretar la física deformada que lo rodea.
     - Esta capacidad es la base biológica que le permite ejecutar con éxito **El Surfeo de Geodésicas**.
   - Leal a sus raíces pero anhela un futuro mejor
 - **Historia personal**:
   - Madre desapareció cuando tenía ~5 años (2102)
-  - Criado solo por su padre Carlos
+  - Criado solo por su padre Charlie
   - **Experiencia de pilotaje previa**: Piloto empírico desde los 14 años. Como aprendiz en el taller, realizaba las pruebas dinámicas y calibraciones de deslizadores y motowaves utilitarias de clientes en los cañones de chatarra del Distrito RD. Es durante estos vuelos a ras de suelo donde su cerebro comenzó a experimentar micro-despertares sensoriales ante las distorsiones de gravedad.
   - Recibió su primer chasis de competición propio como regalo de cumpleaños (17 años)
   - Pasó 10 meses transformándola en "El Fénix" junto a su equipo (Unika, Rafa, Eva)
 - **Objetivo**: Ganar El Velo Gravitacional para conseguir ciudadanía y mejorar la vida de su padre y su gente
 - **Arco narrativo**: De soñador ingenuo a líder revolucionario
 
-### CARLOS RAMÍREZ
+### CHARLIE RAMÍREZ
 - **Edad**: 56 años (al inicio de la historia principal)
 - **Fecha de nacimiento**: 3 de enero de 2058
 - **Lugar de nacimiento**: Quisqueya (República Dominicana)
@@ -72,21 +72,21 @@
 - **Historia personal**:
   - Nacido 7 años antes de La Gran Inundación
   - Recuerda con nitidez la isla de su infancia
-  - Tuvo a Ethan a los 39 años
-  - Esposa desapareció cuando Ethan tenía ~5 años (2102)
+  - Tuvo a Nathan a los 39 años
+  - Esposa desapareció cuando Nathan tenía ~5 años (2102)
   - Crió solo a su hijo
-- **Relación con Ethan**: Padre amoroso que le enseñó mecánica, cultura y valores
+- **Relación con Nathan**: Padre amoroso que le enseñó mecánica, cultura y valores
 - **Herencia cultural**: Descendiente de refugiados del Caribe (isla específica sin confirmar)
 
 ---
 
 ## PERSONAJES SECUNDARIOS
 
-### CÍRCULO CERCANO DE ETHAN (PERIODO DE APRENDIZAJE)
+### CÍRCULO CERCANO DE NATHAN (PERIODO DE APRENDIZAJE)
 
 #### EVA RAMÍREZ
-- **Relación**: Prima de Ethan (hija de hermano/hermana de Carlos)
-- **Edad**: 18 años (1 año mayor que Ethan)
+- **Relación**: Prima de Nathan (hija de hermano/hermana de Charlie)
+- **Edad**: 18 años (1 año mayor que Nathan)
 - **Fecha de nacimiento**: ~2096
 - **Descripción física**: [A desarrollar]
 - **Personalidad**: 
@@ -96,12 +96,12 @@
   - Voz de la resistencia cultural
 - **Habilidad**: Graffiti y arte urbano
 - **Rol en la historia**: 
-  - Hermana mayor que Ethan nunca tuvo (especialmente importante dado que la madre desapareció)
+  - Hermana mayor que Nathan nunca tuvo (especialmente importante dado que la madre desapareció)
   - Documenta la construcción de El Fénix en murales
   - Sus murales se convierten en símbolos de resistencia
-  - Conexión familiar fuerte con Ethan y Carlos
+  - Conexión familiar fuerte con Nathan y Charlie
   - Apoya emocionalmente a ambos
-- **Relación con Ethan**: Cercana, se cuentan todo, ella lo anima cuando duda
+- **Relación con Nathan**: Cercana, se cuentan todo, ella lo anima cuando duda
 - **Subplot potencial**: Su arte puede meterla en problemas con las autoridades corporativas
 
 #### RAFA (RAFAEL)
@@ -110,16 +110,16 @@
 - **Personalidad**: 
   - Leal hasta la muerte
   - Optimista y bromista
-  - Equilibra la seriedad de Ethan
-  - Más social, saca a Ethan de su zona de confort
+  - Equilibra la seriedad de Nathan
+  - Más social, saca a Nathan de su zona de confort
 - **Habilidad**: Experto en electrónica y sistemas
 - **Rol en la historia**: 
-  - Mejor amigo de Ethan
+  - Mejor amigo de Nathan
   - Ayuda con los circuitos y sistemas eléctricos de El Fénix
   - Apoyo emocional constante
   - Quizás también quiere competir pero no tiene recursos
-  - Vive el sueño a través de Ethan
-- **Relación con Ethan**: Hermanos de corazón, se conocen desde niños. Rafa es la sombra técnica de Ethan; siempre está cerca cuando hay que ensuciarse las manos con "El Fénix".
+  - Vive el sueño a través de Nathan
+- **Relación con Nathan**: Hermanos de corazón, se conocen desde niños. Rafa es la sombra técnica de Nathan; siempre está cerca cuando hay que ensuciarse las manos con "El Fénix".
 - **Lenguaje**: Usa constantemente slang caribeño activo. Su saludo de cabecera es "klk", "klk manito" o "klk manín". Es la voz que mantiene el ánimo arriba con su energía dominicana.
 
 #### TOMÁS "EL VIEJO TORO" VEGA
@@ -132,7 +132,7 @@
   - Manos temblorosas (trauma post-accidente)
 - **Personalidad**: 
   - Amargado pero sabio
-  - Protector de Ethan (como el hijo que nunca tuvo)
+  - Protector de Nathan (como el hijo que nunca tuvo)
   - Lleva el peso de sus fracasos
   - Mezcla de esperanza y cinismo
   - Atormentado por el pasado
@@ -153,21 +153,21 @@
   - Ahora vive en las ruinas del Distrito RD
 - **Habilidad**: Maestro piloto, conoce todos los trucos del Velo (incluyendo El Surfeo de Geodésicas)
 - **Rol en la historia**: 
-  - Mentor técnico y emocional de Ethan
+  - Mentor técnico y emocional de Nathan
   - Le enseña trucos de pilotaje avanzados
   - Le advierte sobre los peligros del Velo
   - Le enseña a "sentir" la geometría del espacio-tiempo
   - **Le enseña El Surfeo de Geodésicas** (con gran conflicto interno)
-  - Ve en Ethan una segunda oportunidad
-  - Precedente histórico del rechazo de Ethan
-- **Relación con Ethan**: Figura paterna secundaria, quiere a Ethan como al hijo que nunca tuvo
+  - Ve en Nathan una segunda oportunidad
+  - Precedente histórico del rechazo de Nathan
+- **Relación con Nathan**: Figura paterna secundaria, quiere a Nathan como al hijo que nunca tuvo
 - **Frases características**: 
   - "La gravedad no perdona, mijo. Pero tampoco olvida."
   - "Luna decía que era como escuchar una canción que nadie más podía oír."
 - **Conflicto interno**: 
-  - Tiene miedo de que Ethan repita los errores de Luna
-  - Pero sabe que sin El Anclaje Fantasma, Ethan no puede ganar
-  - Debe elegir entre proteger a Ethan o darle la única herramienta para triunfar
+  - Tiene miedo de que Nathan repita los errores de Luna
+  - Pero sabe que sin El Anclaje Fantasma, Nathan no puede ganar
+  - Debe elegir entre proteger a Nathan o darle la única herramienta para triunfar
 
 #### UNIKA
 - **Edad**: 17 años
@@ -182,12 +182,12 @@
   - Sus padres eran ingenieros de sistemas corporatvios que fueron "deseleccionados" tras denunciar corrupción.
   - Perdió la ciudadanía y fue enviada al Distrito RD con lo puesto.
   - Dedica su genio técnico a la venganza contra el sistema que la traicionó.
-  - Desde pequeña ha admirado a Ethan por su valentía.
+  - Desde pequeña ha admirado a Nathan por su valentía.
 - **Rol en la historia**: 
   - Ingeniera de sistemas (especialista en el Inversor G)
   - Optimiza "El Fénix" con tecnología de grado corporativo modificada.
   - Amiga cercana de Eva.
-- **Relación con Ethan**: Amistad técnica profunda. Ella guarda sentimientos románticos secretos. Es su apoyo intelectual y técnico fundamental.
+- **Relación con Nathan**: Amistad técnica profunda. Ella guarda sentimientos románticos secretos. Es su apoyo intelectual y técnico fundamental.
 
 #### MARCOS
 - **Edad**: 17-18 años
@@ -200,15 +200,15 @@
   - Parte del grupo de amigos
   - Piensa que El Velo es trampa corporativa
   - Representa la voz del escepticismo
-  - Eventualmente apoya a Ethan a pesar de sus dudas
-- **Relación con Ethan**: Amigo que cuestiona pero apoya
+  - Eventualmente apoya a Nathan a pesar de sus dudas
+- **Relación con Nathan**: Amigo que cuestiona pero apoya
 
 ---
 
 ### ANTAGONISTAS Y OTROS PERSONAJES
 
 #### SONY
-- **Edad**: 19-20 años (2-3 años mayor que Ethan)
+- **Edad**: 19-20 años (2-3 años mayor que Nathan)
 - **Fecha de nacimiento**: ~2094-2095
 - **Herencia cultural**: Descendiente de refugiados cubanos o venezolanos (costas caribeñas continentales)
 - **Descripción física**: 
@@ -222,9 +222,9 @@
   - Calculadora y estratégica
   - Idealista radical
   - No quiere subir al domo, quiere derribarlo
-  - Protectora de Ethan pero también lo desafía
-- **Relación con Ethan**: 
-  - **NOVIA de Ethan** (o futura novia)
+  - Protectora de Nathan pero también lo desafía
+- **Relación con Nathan**: 
+  - **NOVIA de Nathan** (o futura novia)
   - Relación romántica compleja
   - Se conocieron durante el periodo de aprendizaje
   - Tensión ideológica: ella quiere revolución violenta, él quiere reforma
@@ -232,19 +232,19 @@
 - **Rol en la historia**: 
   - Interés romántico principal
   - Voz de la resistencia radical
-  - Ayuda a Ethan con información y ajustes técnicos de El Fénix
+  - Ayuda a Nathan con información y ajustes técnicos de El Fénix
   - Representa la resistencia activa vs. el conformismo
-  - Tensión dramática cuando Ethan gana El Velo
+  - Tensión dramática cuando Nathan gana El Velo
 - **Habilidades**: Explosivos, sabotaje, conocimiento del mercado negro
 - **Frase característica**: "Todo lo que vuela puede caer"
 - **Arco narrativo**: De antagonista ideológica a aliada romántica conflictuada
 
-#### EL TOCAYO (CARLOS)
+#### EL TOCAYO (CHARLIE)
 - **Edad**: Viejo (~70 años)
 - **Profesión**: Comerciante en la Plaza de Chatarra
 - **Rol**: Proveedor de piezas, contacto en el mercado negro
 - **Personalidad**: Astuto, oportunista, pero con código de honor
-- **Relación**: Amigo antiguo de Carlos Ramírez. Entre ellos se dicen "Tocayo" por compartir nombre.
+- **Relación**: Amigo antiguo de Charlie Ramírez. Entre ellos se dicen "Tocayo" por compartir nombre.
 
 #### VIPER
 - **Edad**: ~25-30 años
@@ -257,18 +257,18 @@
 
 ### FAMILIA (AUSENTE/MISTERIO)
 
-#### MADRE DE ETHAN
+#### MADRE DE NATHAN
 - **Nombre**: [A definir]
 - **Estado**: Desaparecida desde 2102
 - **Edad al desaparecer**: ~27 años
 - **Misterio**: Circunstancias de su desaparición [A desarrollar]
-- **Impacto**: Su ausencia marca profundamente a Ethan y Carlos
+- **Impacto**: Su ausencia marca profundamente a Nathan y Charlie
 - **Subplot potencial**: ¿Fue reclutada por corporación? ¿Murió? ¿Se fue voluntariamente?
 
 #### FAMILIA EXTENDIDA RAMÍREZ
-- **Padre/Madre de Eva**: Hermano/hermana de Carlos
+- **Padre/Madre de Eva**: Hermano/hermana de Charlie
 - **Otros primos**: Posible comunidad familiar más amplia en Distrito RD
-- **Abuelos de Ethan**: Refugiados originales de República Dominicana (fallecidos)
+- **Abuelos de Nathan**: Refugiados originales de República Dominicana (fallecidos)
 
 ---
 
@@ -303,7 +303,7 @@
   - Su técnica se convirtió en leyenda prohibida
   - Goglee Corporation prohibió oficialmente El Surfeo de Geodésicas
   - Nadie más intentó la técnica después de su muerte (considerada "suicidio elegante")
-  - Hasta Ethan Ramírez en 2114
+  - Hasta Nathan Ramírez en 2114
 - **Frases características**: 
   - "Es como escuchar una canción que nadie más puede oír"
   - "Ves valles y crestas donde otros solo ven aire vacío"
@@ -311,8 +311,8 @@
 - **Impacto en la historia**: 
   - Su muerte traumatizó a Tomás profundamente
   - Tomás dejó de competir después de perderla
-  - Hace que enseñar la técnica a Ethan sea un dilema moral devastador
-  - Ethan representa una segunda oportunidad para Tomás
+  - Hace que enseñar la técnica a Nathan sea un dilema moral devastador
+  - Nathan representa una segunda oportunidad para Tomás
 
 ---
 
@@ -356,7 +356,7 @@
   - Mercado negro
 - **Lugares importantes**:
   - **Plaza de Chatarra**: Mercado de piezas y desechos
-  - **Taller de Carlos**: Pequeño agujero en edificio condenado
+  - **Taller de Charlie**: Pequeño agujero en edificio condenado
 
 ### REGIONES CARIBEÑAS SUMERGIDAS (2065)
 - **Estado**: Sumergidas o devastadas por La Gran Inundación.
@@ -382,9 +382,9 @@
 
 ### EL FÉNIX
 - **Tipo**: Motowave modificada artesanalmente
-- **Constructor**: Ethan Ramírez (con guía de Carlos)
+- **Constructor**: Nathan Ramírez (con guía de Charlie)
 - **Historia**: 
-  - Base: Motowave usada (regalo de cumpleaños de Carlos)
+  - Base: Motowave usada (regalo de cumpleaños de Charlie)
   - Transformación: Febrero-diciembre 2114
 - **Apariencia**: Estéticamente hermosa (NO chatarra)
 - **Características**:
@@ -394,7 +394,7 @@
 - **Modificaciones**:
   - Sistema de levitación artesanal
   - Estabilizador de fase integrado
-  - Ajustes personalizados para el estilo de Ethan
+  - Ajustes personalizados para el estilo de Nathan
 - **Sonido característico**: Ronroneo suave, zumbido grave al levitar
 
 ### ESTABILIZADOR DE FASE
@@ -528,29 +528,29 @@ Los círculos flotantes de El Velo no son solo metas, sino **generadores de micr
   - Considerada "suicidio elegante"
   - Goglee Corporation la prohibió oficialmente
   - Se convirtió en leyenda urbana
-- **2114**: Ethan Ramírez aprende la técnica
+- **2114**: Nathan Ramírez aprende la técnica
   - Tomás decide enseñarle después de ver su don natural
-  - Ethan puede "ver" las geodésicas instintivamente
+  - Nathan puede "ver" las geodésicas instintivamente
 
 **Estado actual:**
 
 - Técnica prohibida por Goglee Corporation
 - Considerada leyenda urbana por pilotos jóvenes
 - Solo Tomás "El Viejo Toro" Vega conoce los detalles completos
-- Debe decidir si enseñársela a Ethan
+- Debe decidir si enseñársela a Nathan
 
 **Dilema moral de Tomás:**
 
-- Sin El Surfeo de Geodésicas, Ethan no puede ganar contra pilotos corporativos con tecnología superior
-- Con El Surfeo de Geodésicas, Ethan puede morir como Luna
-- Tomás debe elegir entre proteger a Ethan o darle la única herramienta para triunfar
-- El trauma de escuchar morir a Luna vs. la esperanza de que Ethan lo logre
+- Sin El Surfeo de Geodésicas, Nathan no puede ganar contra pilotos corporativos con tecnología superior
+- Con El Surfeo de Geodésicas, Nathan puede morir como Luna
+- Tomás debe elegir entre proteger a Nathan o darle la única herramienta para triunfar
+- El trauma de escuchar morir a Luna vs. la esperanza de que Nathan lo logre
 
 **Escena icónica (ejemplo narrativo):**
 
-*Ethan apaga la guía de navegación oficial. Ve dos círculos que parecen estar en extremos opuestos de un cañón. Los otros pilotos rodean el cañón por la línea "recta" aparente, perdiendo segundos preciosos.*
+*Nathan apaga la guía de navegación oficial. Ve dos círculos que parecen estar en extremos opuestos de un cañón. Los otros pilotos rodean el cañón por la línea "recta" aparente, perdiendo segundos preciosos.*
 
-*Ethan, en cambio, ve algo que ellos no pueden ver: una geodésica latente, un valle invisible en el espacio-tiempo que conecta ambos puntos directamente a través del cañón.*
+*Nathan, en cambio, ve algo que ellos no pueden ver: una geodésica latente, un valle invisible en el espacio-tiempo que conecta ambos puntos directamente a través del cañón.*
 
 *Se lanza hacia lo que parece un vacío. Por un segundo, desaparece de la vista debido al efecto de lente gravitacional. El espacio se dobla a su alrededor.*
 
@@ -564,7 +564,7 @@ Los círculos flotantes de El Velo no son solo metas, sino **generadores de micr
 - Desactivar limitadores de seguridad temporalmente
 - Aumenta velocidad 200-300%
 - Riesgo: Explosión del motor
-- Ethan usa esta técnica en el Capítulo 3
+- Nathan usa esta técnica en el Capítulo 3
 
 **Deslizamiento Gravitacional:**
 - Usar campos gravitacionales como "rampas"
@@ -589,7 +589,7 @@ Los círculos flotantes de El Velo no son solo metas, sino **generadores de micr
   3. Forma abreviada común: **"Ción, papi"** / **"Ción, papa"** / **"Ción, tío"**
   4. Ascendiente responde: **"Dios te bendiga"** / **"Dios te bendiga, hijo/mijo"** / **"Dios me lo bendiga"**
 - **Contexto**: 
-  - Carlos es ateo pero mantiene la tradición cultural
+  - Charlie es ateo pero mantiene la tradición cultural
   - Representa conexión con raíces caribeñas y respeto familiar
   - Se usa en momentos importantes (despedidas, antes de eventos peligrosos)
   - Tradición específica de la cultura de la isla y del Distrito RD
@@ -656,37 +656,37 @@ Los círculos flotantes de El Velo no son solo metas, sino **generadores de micr
 ### LÍNEA DE TIEMPO FAMILIAR RAMÍREZ
 
 ```
-2058 (3 de enero)    - Nacimiento de CARLOS RAMÍREZ
+2058 (3 de enero)    - Nacimiento de CHARLIE RAMÍREZ
                        (Nacido 7 años antes de La Gran Inundación en Quisqueya)
                        Hijo de refugiados dominicanos
 
-2058-2093            - Carlos crece en Distrito RD
+2058-2093            - Charlie crece en Distrito RD
                      - Aprende mecánica
                      - Se convierte en maestro
 
-~2093                - Carlos conoce a la madre de Ethan
-                       (Carlos tiene ~35 años)
+~2093                - Charlie conoce a la madre de Nathan
+                       (Charlie tiene ~35 años)
 
-2097 (3 de febrero)  - Nacimiento de ETHAN RAMÍREZ
-                       (Carlos tiene 39 años y 1 mes)
+2097 (3 de febrero)  - Nacimiento de NATHAN RAMÍREZ
+                       (Charlie tiene 39 años y 1 mes)
 
-~2102                - Desaparición de la madre de Ethan
-                       (Ethan tiene ~5 años, Carlos ~44 años)
+~2102                - Desaparición de la madre de Nathan
+                       (Nathan tiene ~5 años, Charlie ~44 años)
 
-2100-2114            - Carlos cría solo a Ethan
+2100-2114            - Charlie cría solo a Nathan
                      - Le enseña mecánica y cultura caribeña
 
-2114 (3 de enero)    - Cumpleaños de Carlos (56 años)
+2114 (3 de enero)    - Cumpleaños de Charlie (56 años)
 
-2114 (3 de febrero)  - Cumpleaños de Ethan (17 años)
-                     - Carlos le regala una motowave usada
+2114 (3 de febrero)  - Cumpleaños de Nathan (17 años)
+                     - Charlie le regala una motowave usada
 
 2114 (feb-dic)       - PERIODO DE APRENDIZAJE
-                     - Ethan transforma la moto en "El Fénix"
+                     - Nathan transforma la moto en "El Fénix"
                      - 10 meses de construcción y entrenamiento
 
 2114 (diciembre)     - EVENTOS DE LA HISTORIA PRINCIPAL
-                     - Ethan compite en El Velo Gravitacional
+                     - Nathan compite en El Velo Gravitacional
                      - Gana la carrera
                      - Rechaza la ciudadanía
                      - Inicia la revolución
@@ -725,12 +725,12 @@ Los círculos flotantes de El Velo no son solo metas, sino **generadores de micr
 - **Pista**: Serpentea hacia las puertas del domo de Goglee City
 
 ### EL REGALO (3 de febrero 2114)
-- Carlos regala a Ethan una motowave usada
+- Charlie regala a Nathan una motowave usada
 - Momento emotivo padre-hijo
-- Inicio del viaje de Ethan hacia El Velo
+- Inicio del viaje de Nathan hacia El Velo
 
 ### LA VICTORIA Y EL RECHAZO (Diciembre 2114)
-- Ethan gana El Velo Gravitacional
+- Nathan gana El Velo Gravitacional
 - Rechaza la Ciudadanía Aérea
 - Declaración pública contra el sistema
 - Inicio de movimiento revolucionario
@@ -757,12 +757,12 @@ Los círculos flotantes de El Velo no son solo metas, sino **generadores de micr
    - Quiénes pagan el precio del "progreso"
 
 4. **Familia y Legado**
-   - Relación padre-hijo (Carlos-Ethan)
+   - Relación padre-hijo (Charlie-Nathan)
    - Transmisión de conocimiento y valores
    - Ausencia de la madre
 
 5. **Resistencia vs. Conformismo**
-   - Ethan (reforma desde dentro) vs. Sony (revolución desde fuera)
+   - Nathan (reforma desde dentro) vs. Sony (revolución desde fuera)
    - El costo de la esperanza
    - Cuándo es necesario romper el sistema
 
@@ -786,13 +786,13 @@ Los círculos flotantes de El Velo no son solo metas, sino **generadores de micr
 
 ### ELEMENTOS A DESARROLLAR
 
-- [ ] Descripción física detallada de Ethan
+- [ ] Descripción física detallada de Nathan
 - [ ] Descripción física de Eva, Rafa, Unika, Marcos
-- [ ] Nombre y backstory completa de la madre de Ethan
+- [ ] Nombre y backstory completa de la madre de Nathan
 - [ ] Mecanismo técnico de propulsores gravitacionales
 - [ ] Mecanismo técnico de estabilizadores de fase
 - [ ] Música y comida del Distrito RD
-- [x] Personajes del círculo cercano de Ethan (Eva, Rafa, Tomás, Unika, Marcos)
+- [x] Personajes del círculo cercano de Nathan (Eva, Rafa, Tomás, Unika, Marcos)
 - [ ] Detalles de la pista de El Velo
 - [ ] Estructura política de Goglee City
 - [ ] Otras ciudades-domo en el mundo
@@ -800,15 +800,15 @@ Los círculos flotantes de El Velo no son solo metas, sino **generadores de micr
 - [ ] Historia completa de Tomás "El Viejo Toro" Vega (su victoria en 2082, castigo, pérdidas)
 - [ ] Familia extendida Ramírez (padres de Eva, otros primos)
 - [ ] Subplot del arte de Eva como resistencia
-- [ ] Desarrollo de la posible tensión romántica Ethan-Unika (admiración secreta de ella)
+- [ ] Desarrollo de la posible tensión romántica Nathan-Unika (admiración secreta de ella)
 
 ### PREGUNTAS ABIERTAS
 
 - ¿En qué continente está Goglee City?
-- ¿Qué pasó exactamente con la madre de Ethan?
+- ¿Qué pasó exactamente con la madre de Nathan?
 - ¿Cuántos competidores hay en El Velo?
 - ¿Qué otras corporaciones existen?
-- ¿Hay resistencia organizada antes de Ethan?
+- ¿Hay resistencia organizada antes de Nathan?
 
 ---
 
@@ -828,8 +828,8 @@ Los círculos flotantes de El Velo no son solo metas, sino **generadores de micr
 - Agregado personaje **Luna Reyes** (piloto fallecida, 2060-2084)
 - Expandida historia de Tomás "El Viejo Toro" Vega con tragedia de Luna
 - Agregada sección de Técnicas Gravitacionales Avanzadas
-- Actualizada edad de Sony a 19-20 años (novia de Ethan)
-- Cambiada dinámica: Unica admira secretamente a Ethan desde pequeña (él no lo sabe)
+- Actualizada edad de Sony a 19-20 años (novia de Nathan)
+- Cambiada dinámica: Unica admira secretamente a Nathan desde pequeña (él no lo sabe)
 
 **Changelog v1.1**:
 - Agregados 5 nuevos personajes secundarios del Periodo de Aprendizaje
