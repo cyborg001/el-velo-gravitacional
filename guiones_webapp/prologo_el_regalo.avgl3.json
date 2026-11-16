@@ -495,8 +495,8 @@
                 },
                 {
                     "_uId": "sw7ji2dvel",
-                    "title": "Memorias de Quisqueya",
-                    "text": "[PHO]itan|Ethan[/PHO] cerró los ojos y, por un momento, las historias de Carlos cobraron vida. Historias de Quisqueya, la isla que el mar se tragó en 2065. Vio mares que no eran de petróleo, sino de un azul tan profundo que desafía la descripción, y cielos donde el sol no quemaba, sino que acariciaba. Ese legado era su única ancla en un mundo que quería hundirlo.",
+                    "title": "Memorias de La Bella",
+                    "text": "[PHO]itan|Ethan[/PHO] cerró los ojos y, por un momento, las historias de Carlos cobraron vida. Historias de La Bella, la isla que el mar se tragó en 2065. Vio mares que no eran de petróleo, sino de un azul tan profundo que desafía la descripción, y cielos donde el sol no quemaba, sino que acariciaba. Ese legado era su única ancla en un mundo que quería hundirlo.",
                     "pause": 2,
                     "subtitle": "",
                     "voice": null,
@@ -504,7 +504,7 @@
                     "pitch": null,
                     "assets": [
                         {
-                            "id": "/media/assets/quisquella_la_bella.mp4",
+                            "id": "/media/assets/La Bella_la_bella.mp4",
                             "type": "video",
                             "zoom": "1.0:1.3",
                             "move": "HOR:50:50 + VER:0:100",
