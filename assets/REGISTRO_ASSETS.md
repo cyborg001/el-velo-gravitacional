@@ -1,9 +1,9 @@
 - `madre_nathan.jpg` — Retrato de referencia de la madre de Nathan (astrofísica de élite, 45 años, Goglee City).
 - `viper_oponente.jpg` — Retrato de referencia de Viper (piloto rival del Velo Gravitacional, 21 años).
-- `jeisly_adolescente.jpg` — Retrato de referencia de Jeisly (prima de Nathan, 16 años, Distrito RD).
+- `jeimy_adolescente.jpg` — Retrato de referencia de Jeimy (prima de Nathan, 16 años, Distrito RD).
 - `madre_nathan_anime.jpg` — Versión anime 9:16 de la madre de Nathan (rubia, latina, Goglee City).
 - `viper_oponente_anime.jpg` — Versión anime 9:16 de Viper (piloto rival).
-- `jeisly_adolescente_anime.jpg` — Versión anime 9:16 de Jeisly adolescente (16 años).
+- `jeimy_adolescente_anime.jpg` — Versión anime 9:16 de Jeimy adolescente (16 años).
 - `unika_anime.jpg` — Versión anime 9:16 de Unika (mecánica y física genio, 18 años).
 - `sony_anime.jpg` — Versión anime 9:16 de Sony (exlíder rebelde y pareja de Nathan, 18 años).
 - `para video/el_viejo_toro_anime.jpg` — Versión anime 9:16 de Tomás ("El Viejo Toro", mentor de Nathan).

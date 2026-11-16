@@ -102,17 +102,17 @@ Nathan se rió, agradecido por la oferta. Rafa era un genio improvisando circuit
 
 ---
 
-Al mediodía, el calor se volvió denso y el aire en el taller se estancó. Jeisly llegó como un torbellino, cargando una bolsa que emanaba el aroma celestial del arroz con habichuelas.
+Al mediodía, el calor se volvió denso y el aire en el taller se estancó. Jeimy llegó como un torbellino, cargando una bolsa que emanaba el aroma celestial del arroz con habichuelas.
 
-—¡Mierda loco, qué jebi está esa vaina! —soltó Jeisly nada más ver la moto sobre el caballete—. ¡Dime que no es verdad, primo! ¿De verdad vamos a poner a volar este hierro?
+—¡Mierda loco, qué jebi está esa vaina! —soltó Jeimy nada más ver la moto sobre el caballete—. ¡Dime que no es verdad, primo! ¿De verdad vamos a poner a volar este hierro?
 
-—Esa es la idea, Jeisly —respondió Nathan, recibiendo la comida—. Pero todavía falta mucho.
+—Esa es la idea, Jeimy —respondió Nathan, recibiendo la comida—. Pero todavía falta mucho.
 
-Jeisly rodeó la moto con los ojos entrecerrados, como si estuviera encuadrando una pintura. Ella veía colores donde los demás veían óxido.
+Jeimy rodeó la moto con los ojos entrecerrados, como si estuviera encuadrando una pintura. Ella veía colores donde los demás veían óxido.
 
 —Tiene líneas potentes. De verdad. Cuando esté lista, yo le voy a meter un diseño que la gente va a creer que es una nave de la Ciudad Aérea. Quiero que el Fénix se vea desde el domo.
 
-Acompañando a Jeisly estaba Unika. Ella, al contrario que la prima de Nathan, se mantuvo en silencio unos instantes, observando la estructura con una mirada analítica y calmada.
+Acompañando a Jeimy estaba Unika. Ella, al contrario que la prima de Nathan, se mantuvo en silencio unos instantes, observando la estructura con una mirada analítica y calmada.
 
 —Nathan, las especificaciones del fabricante para este modelo sugieren que el chasis debe ser reforzado —comentó Unika con su voz educada y precisa—. Si planeas alcanzar velocidades de carrera, los puntos de anclaje de los propulsores sufrirán una fatiga estructural inaceptable.
 
@@ -136,7 +136,7 @@ Nathan miró a su alrededor. Estaban todos allí: su padre, su mejor amigo, su p
 
 —No digas nada, manito —le cortó Rafa, dándole una palmada en la espalda—. Solo gana esa maldita carrera por nosotros.
 
-—¡Eso mismo! —añadió Jeisly con una carcajada—. Que si perdemos, vamos a tener que comer aire reciclado por tres meses para pagar los platos rotos.
+—¡Eso mismo! —añadió Jeimy con una carcajada—. Que si perdemos, vamos a tener que comer aire reciclado por tres meses para pagar los platos rotos.
 
 Esa noche, cuando el silencio finalmente reclamó el taller, Nathan se quedó solo frente a la carcasa desarmada de *El Fénix*. Con el cuaderno sobre las rodillas, miró su boceto. Ya no veía solo una moto vieja; veía el esfuerzo de su gente, la esperanza de un distrito entero que se negaba a ser olvidado. Se recostó contra la pared fría y cerró los ojos, imaginando el viento puro del domo golpeándole el rostro.
 
@@ -225,7 +225,7 @@ Un zumbido sordo empezó a vibrar en el taller. Las herramientas sobre las mesas
 
 —¡Wepa! ¡Lo logramos! —gritó Rafa, lanzando su gorra al aire.
 
-—¡Mierda, primo, que eso está volando de verdad! —exclamó Jeisly, grabando la escena con su terminal.
+—¡Mierda, primo, que eso está volando de verdad! —exclamó Jeimy, grabando la escena con su terminal.
 
 Nathan sentía la moto vibrar bajo él, como un animal salvaje que empezaba a despertar. La adrenalina le recorría el cuerpo. Ya no era solo un sueño; era una realidad que flotaba frente a sus ojos.
 
@@ -270,7 +270,7 @@ Nathan la observó irse, sintiendo que ahora tenía otra razón más para ganar.
 
 ## Junio de 2114
 
-*El Fénix* estaba dejando de ser un montón de chatarra apilada para convertirse en una obra de arte funcional. Bajo la luz amarillenta del taller, las líneas de su chasis ahora fluían con una elegancia depredadora. Jeisly había pasado noches enteras trabajando en el diseño de los costados: un fénix cuyas alas de fuego azul parecía desplegarse hacia atrás, fundiéndose con los difusores de calor. Pero Nathan, mientras pasaba una gamuza por el asiento de polímero, sentía una inquietud que no lo dejaba descansar.
+*El Fénix* estaba dejando de ser un montón de chatarra apilada para convertirse en una obra de arte funcional. Bajo la luz amarillenta del taller, las líneas de su chasis ahora fluían con una elegancia depredadora. Jeimy había pasado noches enteras trabajando en el diseño de los costados: un fénix cuyas alas de fuego azul parecía desplegarse hacia atrás, fundiéndose con los difusores de calor. Pero Nathan, mientras pasaba una gamuza por el asiento de polímero, sentía una inquietud que no lo dejaba descansar.
 
 Tenía la máquina. Tenía el apoyo. Pero le faltaba el alma del piloto. Podía hacer que la moto levitara, sí; podía realizar giros básicos y aceleraciones cortas, pero en las grabaciones de las carreras profesionales veía algo diferente. Veía pilotos que no luchaban contra el aire, sino que parecían ser parte de él.
 
@@ -320,7 +320,7 @@ El entrenamiento fue una pesadilla geométrica. Tomás no le enseñó a acelerar
 
 —¡Siente la geodésica, maldita sea! —gritaba Tomás por la radio, su voz distorsionada por la estática—. ¡Deja de pelear con la moto! El espacio no es recto, Nathan. ¡Se curva! ¡Si luchas contra la curva, el Efecto Honda te va a escupir contra el muro!
 
-Nathan se estrelló catorce veces el primer día. El carenado del fénix, tan cuidadosamente pintado por Jeisly, ahora tenía cicatrices de concreto y metal. Al final de la tarde, Nathan apenas podía sostener el manillar; sus músculos gritaban de fatiga y su mente era un caos de vectores y fuerzas G.
+Nathan se estrelló catorce veces el primer día. El carenado del fénix, tan cuidadosamente pintado por Jeimy, ahora tenía cicatrices de concreto y metal. Al final de la tarde, Nathan apenas podía sostener el manillar; sus músculos gritaban de fatiga y su mente era un caos de vectores y fuerzas G.
 
 —No puedo... no veo lo que quieres que vea —jadeó Nathan, desplomándose sobre el suelo de ceniza.
 
@@ -487,9 +487,9 @@ Unika lo miró fijamente con sus ojos oscuros, llenos de una determinación frí
 
 —No quiero volver para vivir como ellos. Quiero que sientan lo que es perderlo todo ante alguien que ellos consideran "desecho". Por eso el Inversor G es perfecto. Porque es mi venganza empaquetada en un chip.
 
-De repente, Jeisly apareció por la esquina del taller, interrumpiendo el momento con una risotada.
+De repente, Jeimy apareció por la esquina del taller, interrumpiendo el momento con una risotada.
 
-—¡Muchachos! ¡Dejen la charla que ya tengo el diseño final! —Jeisly traía una lata de pintura especial de secado rápido—. Primo, le puse unos detalles en neón reactivo a los costados. Cuando aceleres, el fénix va a parecer que está quemando el aire. ¡Qué maldita vaina más jebi se va a ver!
+—¡Muchachos! ¡Dejen la charla que ya tengo el diseño final! —Jeimy traía una lata de pintura especial de secado rápido—. Primo, le puse unos detalles en neón reactivo a los costados. Cuando aceleres, el fénix va a parecer que está quemando el aire. ¡Qué maldita vaina más jebi se va a ver!
 
 Rafa llegó detrás, cargando una caja de herramientas.
 
@@ -550,7 +550,7 @@ La pista del Velo era una serpiente caprichosa que se retorcía en el aire, desa
 
 —¡Calibración de fase al límite, Nathan! —la voz de Unika sonó en su casco, tensa pero precisa—. El núcleo está operando al 115 por ciento. No le pidas más o el inversor estallará.
 
-—¡Dale, manito, que ese Viper te tiene en la mira! —Rafa gritaba desde el taller clandestino, donde Jeisly y él monitoreaban la frecuencia pirateada—. ¡Cuidado con la maniobra de cierre, que ese tipo juega puerco!
+—¡Dale, manito, que ese Viper te tiene en la mira! —Rafa gritaba desde el taller clandestino, donde Jeimy y él monitoreaban la frecuencia pirateada—. ¡Cuidado con la maniobra de cierre, que ese tipo juega puerco!
 
 Viper, el piloto estrella de Goglee Corp, era una sombra negra y dorada que se movía con una fluidez insultante. Embistió el flanco derecho de *El Fénix*, un impacto de metal contra metal que hizo saltar chispas de titanio y vibrar hasta el último tornillo de la moto artesanal. Pero la máquina de Nathan no estaba hecha de polímeros delicados de laboratorio; estaba forjada con la terquedad de los que no tienen nada que perder.
 
@@ -592,7 +592,7 @@ Un funcionario corporativo de alto rango, con un traje de seda gris que parecía
 
 —Felicidades, Ciudadano Ramírez —dijo el funcionario con una sonrisa ensayada que no llegaba a sus ojos—. Has demostrado una aptitud excepcional. Bienvenido a la verdadera civilización. Tu vida en el barro ha terminado hoy.
 
-Nathan miró el pase. Era el sueño de Charlie. Era la seguridad para Unika. Era el fin del hambre para Rafa y Jeisly. Pero luego miró a través de los muros de cristal reforzado del domo. Allá abajo, el Distrito RD seguía oculto bajo la calima tóxica. Allá abajo, el fuego de la gente seguía ardiendo en medio de la oscuridad.
+Nathan miró el pase. Era el sueño de Charlie. Era la seguridad para Unika. Era el fin del hambre para Rafa y Jeimy. Pero luego miró a través de los muros de cristal reforzado del domo. Allá abajo, el Distrito RD seguía oculto bajo la calima tóxica. Allá abajo, el fuego de la gente seguía ardiendo en medio de la oscuridad.
 
 —¿Y qué pasa con mi gente? —preguntó Nathan, su voz ronca por el esfuerzo pero clara como el cristal.
 

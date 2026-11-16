@@ -36,9 +36,9 @@ Unika lo miró fijamente con sus ojos oscuros, llenos de una determinación frí
 
 —No quiero volver para vivir como ellos. Quiero que sientan lo que es perderlo todo ante alguien que ellos consideran "desecho". Por eso el Inversor G es perfecto. Porque es mi venganza empaquetada en un chip.
 
-De repente, Jeisly apareció por la esquina del taller, interrumpiendo el momento con una risotada.
+De repente, Jeimy apareció por la esquina del taller, interrumpiendo el momento con una risotada.
 
-—¡Muchachos! ¡Dejen la charla que ya tengo el diseño final! —Jeisly traía una lata de pintura especial de secado rápido—. Primo, le puse unos detalles en neón reactivo a los costados. Cuando aceleres, el fénix va a parecer que está quemando el aire. ¡Qué maldita vaina más jebi se va a ver!
+—¡Muchachos! ¡Dejen la charla que ya tengo el diseño final! —Jeimy traía una lata de pintura especial de secado rápido—. Primo, le puse unos detalles en neón reactivo a los costados. Cuando aceleres, el fénix va a parecer que está quemando el aire. ¡Qué maldita vaina más jebi se va a ver!
 
 Rafa llegó detrás, cargando una caja de herramientas.
 
