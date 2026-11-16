@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.17)  16 NOV 2026 10:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.17)  16 NOV 2026 10:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -535,13 +535,7 @@ o---
 
 LaTeX Info: Redefining \. on input line 457.
 LaTeX Info: Redefining \% on input line 457.
-[38]
-Overfull \hbox (11.22319pt too wide) in paragraph at lines 461--462
-\OT1/bch/m/n/10.95 solt[]o Sony, su acen-to cu-bano cor-tan-do el rui-do de la 
-lluvia---
- []
-
-[39]
+[38] [39]
 Overfull \hbox (7.93298pt too wide) in paragraph at lines 479--480
 []\OT1/bch/m/n/10.95 ---!`Mierda, ma-ni-to, pa-re-ce que flo-ta en se-da! ---ex
 clam[]o
@@ -731,7 +725,7 @@ Here is how much of TeX's memory you used:
 ve/2026/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb><c:/texlive/2026/tex
 mf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb><c:/texlive/2026/texmf-dist/fon
 ts/type1/bitstrea/charter/bchri8a.pfb>
-Output written on COMPILADO_libro_PROFESIONAL.pdf (67 pages, 163787 bytes).
+Output written on COMPILADO_libro_PROFESIONAL.pdf (67 pages, 163918 bytes).
 PDF statistics:
  397 PDF objects out of 1000 (max. 8388607)
  316 compressed objects within 4 object streams

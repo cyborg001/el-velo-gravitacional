@@ -44,7 +44,7 @@ El Tocayo escupió a un lado y pateó una lona negra. Debajo, descansaba una pie
 
 Sony estaba allí, protegida por un chubasquero de plástico que goteaba sobre el pavimento sucio. Se acercó a la pieza y la analizó con una mirada cargada de un cinismo experto.
 
-—Oye, Tocayo, no te pases de listo con el chico —soltó Sony, su acento cubano cortando el ruido de la lluvia—. Esa pieza tiene los sellos de seguridad violados. Es material robado o "caído del camión". Si los recolectores corporativos la ven aquí, te queman el puesto.
+—Oye, Tocayo, no te pases de listo con el chico —soltó Sony, su acento caribeño, parecido al de Nathan y sus amigos pero algo distinto cortando el ruido de la lluvia—. Esa pieza tiene los sellos de seguridad violados. Es material robado o "caído del camión". Si los recolectores corporativos la ven aquí, te queman el puesto.
 
 El Tocayo gruñó, pero no se inmutó.
 

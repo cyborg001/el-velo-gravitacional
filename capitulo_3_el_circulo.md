@@ -22,7 +22,7 @@ El Tocayo empezó a contar el dinero con una lentitud exasperante, pero antes de
 
 Nathan se giró. Frente a él estaba una chica que parecía haber nacido del mismo fuego de la chatarra. Tenía el pelo de un rosa eléctrico que destacaba contra su piel canela, y llevaba una chaqueta de cuero llena de parches con símbolos de resistencia. Sus ojos tenían un brillo desafiante, una mezcla de rabia y una inteligencia afilada que Nathan nunca había visto.
 
-—Oye, chico, busca tus piezas en otro lado —dijo ella, con un marcado acento cubano que le daba ritmo a su amenaza—. Esos inductores me pertenecen por reserva de palabra.
+—Oye, chico, busca tus piezas en otro lado —dijo ella, con un acento caribeño, parecido al de Nathan y sus amigos pero algo distinto que le daba ritmo a su amenaza—. Esos inductores me pertenecen por reserva de palabra.
 
 —En la Plaza no hay palabras, niña —soltó el Tocayo con una risa metálica—. Solo hay créditos sobre la mesa. Y estos muchachos pagaron primero.
 
