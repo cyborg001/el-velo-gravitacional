@@ -19,3 +19,8 @@ Proyecto editorial y audiovisual de ciencia ficción / narrativa: **"El Velo Gra
 
 ## 📝 Tareas Por Hacer / Próximos Pasos
 - [ ] Continuar expansión de capítulos, guiones en `guiones_webapp/` y generación de material visual/video asociado.
+
+## Reglas de Consistencia Física y Canon (No revertir)
+- **Prohibido usar "bamboleo de una estrella":** usar siempre **"distorsión en la luz de una estrella de fondo"** (microlente gravitacional en el borde exterior del Sistema Solar, consistente con un agujero negro errante a 400 km/s entre 2100 y 2114).
+- **Prohibido usar `Quisqueya` / `Quisquella`:** usar siempre **`La Bella`**.
+- **Nombres definitivos:** **Nathan** (antes Ethan) y **Charlie** (antes Carlos).

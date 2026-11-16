@@ -124,13 +124,13 @@ Rafa levantó la vista de un mazo de cables que estaba pelando.
 
 —¿Y de dónde vamos a sacar los créditos? Esa vaina no cae del cielo.
 
-—Conseguiremos la chatarra —dijo Unika, saliendo de debajo de la moto con una pequeña linterna técnica—. Conozco a un proveedor en la Plaza que tiene excedentes de las fábricas corporativas. No será nuevo, pero con un poco de pulido, su integridad estructural será perfecta para lo que necesitamos.
+—Conseguiremos la chatarra —dijo Unika, saliendo de debajo de la moto con una pequeña linterna técnica—. Conozco a un proveedor en la Plaza que tiene excedentes de las fábricas corporativas. No será nuevo, pero con un poco de pulido, su resistencia estructural será perfecta para lo que necesitamos.
 
 Charlie, que observaba la escena desde la puerta, intervino con voz tranquila pero firme.
 
 —Yo puedo dar unas clases extra de mecánica pesada en el muelle de carga. Entre todos sacaremos esto adelante.
 
-Nathan miró a su alrededor. Estaban todos allí: su padre, su mejor amigo, su prima artista y la mente técnica de Unika. Gente que no tenía nada, pero que estaba dispuesta a darle lo poco que tenían para que él pudiera volar.
+Nathan miró a su alrededor. Estaban todos allí: su padre, su mejor amigo, su prima artista y la mente científica de Unika. Gente que no tenía nada, pero que estaba dispuesta a darle lo poco que tenían para que él pudiera volar.
 
 —Gracias —dijo Nathan, sintiendo que la garganta se le cerraba un poco. Su acento dominicano se volvió más suave, más sentido—. No sé cómo agradecerles esto.
 
