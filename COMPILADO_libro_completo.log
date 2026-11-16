@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.17)  16 NOV 2026 09:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.17)  16 NOV 2026 09:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -340,7 +340,7 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.53 
-      [2]
+      [2] [3]
 ! You can't use `macro parameter character #' in vertical mode.
 l.88 #
        PARTE I: EL APRENDIZAJE
@@ -349,10 +349,9 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[3]
 LaTeX Info: Redefining \. on input line 90.
 LaTeX Info: Redefining \% on input line 90.
- [4]
+[4]
 Cap\'{\i }tulo 2.
 [5
 
@@ -451,7 +450,7 @@ live/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/202
 6/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2026/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/texlive/2026/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmti12.pfb>
-Output written on COMPILADO_libro_completo.pdf (32 pages, 141524 bytes).
+Output written on COMPILADO_libro_completo.pdf (32 pages, 141584 bytes).
 PDF statistics:
  219 PDF objects out of 1000 (max. 8388607)
  173 compressed objects within 2 object streams
