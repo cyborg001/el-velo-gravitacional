@@ -60,7 +60,6 @@ Charlie lo observó en silencio, con una mezcla de orgullo y una sombra de adver
 ---
 
 
-# PARTE I: EL APRENDIZAJE
 
 # CAPÍTULO 1: PRIMEROS PASOS
 
