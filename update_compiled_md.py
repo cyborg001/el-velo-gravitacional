@@ -4,13 +4,14 @@ base_path = os.path.dirname(os.path.abspath(__file__))
 compiled_path = os.path.join(base_path, "COMPILADO_libro_completo.md")
 
 chapters = [
-    "prologo_el_regalo.md",
-    "capitulo_1_primeros_pasos.md",
-    "capitulo_2_el_circulo.md",
-    "capitulo_3_el_viejo_toro.md",
-    "capitulo_4_el_peso_de_la_gravedad.md",
-    "capitulo_5_chispas_en_el_oxido.md",
-    "capitulo_6_el_velo_gravitacional.md"
+    "capitulo_1_el_fenix.md",
+    "capitulo_2_primeros_pasos.md",
+    "capitulo_3_el_circulo.md",
+    "capitulo_4_el_viejo_toro.md",
+    "capitulo_5_el_peso_de_la_gravedad.md",
+    "capitulo_6_chispas_en_el_oxido.md",
+    "capitulo_7_el_velo_gravitacional.md",
+    "capitulo_8_fuera_de_tiempo.md"
 ]
 
 full_content = ""
