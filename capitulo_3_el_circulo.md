@@ -16,7 +16,7 @@ Nathan sacó un fajo de créditos arrugados, el fruto de su sudor y sus noches e
 
 —Quinientos créditos, Tocayo. Lo prometido por el par de propulsores gravitacionales Clase 3.
 
-El Tocayo empezó a contar el dinero con una lentitud exasperante, pero antes de que pudiera terminar, una sombra se proyectó sobre el mostrador.
+El Tocayo empezó a validar los créditos con una lentitud exasperante, pero antes de que pudiera terminar, una sombra se proyectó sobre el mostrador.
 
 —Esa mercancía ya tenía nombre, viejo —dijo una voz que cortó el aire como una cuchilla.
 
