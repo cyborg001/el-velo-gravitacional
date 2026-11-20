@@ -339,13 +339,11 @@
 - **Ubicación**: Periferia EXTERIOR del domo de Goglee City
 - **Fundación**: 2060 (refugiados de La Gran Inundación)
 - **Características**:
-  - Fuera del domo protector
-  - Aire tóxico pero respirable
-  - Sol visible (enfermo, rojizo)
-  - Smog permanente
-  - Infraestructura deteriorada
-  - Neón parpadeante
-  - Charcos de agua ácida
+  - Fuera del domo protector, pero con **estética cyberpunk oprimida**: edificios altos, densidad vertical, neón abundante y pantallas holográficas desgastadas
+  - Tecnología avanzada pero restringida, obsoleta o intervenida por el mercado negro
+  - Aire tóxico pero respirable, con **smog permanente** que tiñe el cielo y filtra un sol enfermo
+  - El **Domo de Goglee City** siempre visible en el horizonte como símbolo utópico inalcanzable
+  - Charcos de agua ácida y cableado expuesto entre torres de hormigón y metal
 - **Población**: 
   - Descendientes de refugiados caribeños (principalmente dominicanos)
   - Segunda y tercera generación
@@ -355,7 +353,7 @@
   - Mano de obra para Goglee City
   - Mercado negro
 - **Lugares importantes**:
-  - **Plaza de Chatarra**: Mercado de piezas y desechos
+  - **Plaza de Chatarra**: Mercado clandestino en una zona más desordenada, parecida a un basurero de chatarra y contenedores apilados, donde cada negociador tiene su propio espacio delimitado
   - **Taller de Charlie**: Pequeño agujero en edificio condenado
 
 ### REGIONES CARIBEÑAS SUMERGIDAS (2065)

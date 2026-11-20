@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.17)  20 NOV 2026 04:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.17)  20 NOV 2026 05:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -353,30 +353,33 @@ Cap\'{\i }tulo 1.
 [3
 
 ]
-Underfull \vbox (badness 6978) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
- [4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
+ [4]
+Underfull \vbox (badness 6978) has occurred while \output is active []
+
  [5]
-Underfull \vbox (badness 3579) has occurred while \output is active []
+Underfull \vbox (badness 2065) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 58.
 LaTeX Info: Redefining \% on input line 58.
  [6]
-Underfull \vbox (badness 2065) has occurred while \output is active []
+Underfull \vbox (badness 3579) has occurred while \output is active []
 
  [7]
 LaTeX Info: Redefining \. on input line 92.
 LaTeX Info: Redefining \% on input line 92.
 
-[8]
-Cap\'{\i }tulo 2.
-[9
+[8] [9]
+LaTeX Info: Redefining \. on input line 92.
+LaTeX Info: Redefining \% on input line 92.
+ [10
 
 ]
+Cap\'{\i }tulo 2.
+[11]
 Overfull \hbox (13.67072pt too wide) in paragraph at lines 110--111
 []\OT1/bch/m/n/10.95 ---Empezaremos por el ca-blea-do prin-ci-pal ---dijo Natha
 n,
@@ -390,15 +393,15 @@ a m[]aqui-
 
 LaTeX Info: Redefining \. on input line 117.
 LaTeX Info: Redefining \% on input line 117.
-[10] [11]
+[12] [13]
 LaTeX Info: Redefining \. on input line 153.
 LaTeX Info: Redefining \% on input line 153.
- [12] [13]
+ [14] [15]
 LaTeX Info: Redefining \. on input line 193.
 LaTeX Info: Redefining \% on input line 193.
- [14]
+ [16]
 Cap\'{\i }tulo 3.
-[15
+[17
 
 ]
 Overfull \hbox (5.63878pt too wide) in paragraph at lines 203--204
@@ -406,44 +409,50 @@ Overfull \hbox (5.63878pt too wide) in paragraph at lines 203--204
  mand[]^^Pbu-
  []
 
-LaTeX Info: Redefining \. on input line 216.
-LaTeX Info: Redefining \% on input line 216.
-[16]
+
+Underfull \vbox (badness 3579) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 212.
+LaTeX Info: Redefining \% on input line 212.
+ [18]
+Underfull \vbox (badness 1303) has occurred while \output is active []
+
+ [19]
 Overfull \hbox (23.91985pt too wide) in paragraph at lines 233--234
 []\OT1/bch/m/n/10.95 ---Nadie ga-na con-tra la ca-sa, bo-bo ---replic[]o ella, 
 cruz[]ando-
  []
 
-[17]
+
 Overfull \hbox (13.73648pt too wide) in paragraph at lines 235--236
 []\OT1/bch/m/n/10.95 ---Entonces d[]eja-me ser la ex-cep-ci[]on ---propuso Nath
 an---
  []
 
-LaTeX Info: Redefining \. on input line 254.
-LaTeX Info: Redefining \% on input line 254.
-[18]
+LaTeX Info: Redefining \. on input line 250.
+LaTeX Info: Redefining \% on input line 250.
+[20] [21]
 Overfull \hbox (23.14241pt too wide) in paragraph at lines 275--276
 []\OT1/bch/m/n/10.95 ---O[]^^P que el p[]aja-ro de hie-rro ya tie-ne alas ---di
 jo, apoy[]ando-
  []
 
-[19]
+LaTeX Info: Redefining \. on input line 289.
+LaTeX Info: Redefining \% on input line 289.
+[22]
 Overfull \hbox (22.63872pt too wide) in paragraph at lines 293--294
 []\OT1/bch/m/n/10.95 ---Eres tan in-ge-nuo... y tan ter-co ---susurr[]o ella, a
 cerc[]ando-
  []
 
-LaTeX Info: Redefining \. on input line 294.
-LaTeX Info: Redefining \% on input line 294.
-[20] [21]
+[23]
 LaTeX Info: Redefining \. on input line 312.
 LaTeX Info: Redefining \% on input line 312.
- [22
+ [24
 
 ]
 Cap\'{\i }tulo 4.
-[23]
+[25]
 Overfull \hbox (8.73228pt too wide) in paragraph at lines 322--323
 []\OT1/bch/m/n/10.95 ---Papi me ha en-se[]nado to-do lo que s[]e ---replic[]o N
 athan,
@@ -451,10 +460,10 @@ athan,
 
 LaTeX Info: Redefining \. on input line 339.
 LaTeX Info: Redefining \% on input line 339.
-[24]
+[26]
 Underfull \vbox (badness 2065) has occurred while \output is active []
 
- [25]
+ [27]
 Overfull \hbox (1.26439pt too wide) in paragraph at lines 366--367
 []\OT1/bch/m/n/10.95 El en-tre-na-mien-to fue una pe-sa-di-lla geom[]etri-ca. T
 om[]as
@@ -462,10 +471,10 @@ om[]as
 
 LaTeX Info: Redefining \. on input line 369.
 LaTeX Info: Redefining \% on input line 369.
-[26]
+[28]
 Underfull \vbox (badness 1303) has occurred while \output is active []
 
- [27]
+ [29]
 Overfull \hbox (16.90097pt too wide) in paragraph at lines 386--387
 []\OT1/bch/m/n/10.95 ---Muri[]o bus-can-do la geod[]esi-ca per-fec-ta. ---Tom[]
 as guard[]o
@@ -479,14 +488,14 @@ a m[]artir.
 
 LaTeX Info: Redefining \. on input line 401.
 LaTeX Info: Redefining \% on input line 401.
-[28] [29]
+[30] [31]
 LaTeX Info: Redefining \. on input line 418.
 LaTeX Info: Redefining \% on input line 418.
- [30
+ [32
 
-] [31] [32]
+] [33] [34]
 Cap\'{\i }tulo 5.
-[33
+[35
 
 ]
 Overfull \hbox (2.33743pt too wide) in paragraph at lines 432--433
@@ -499,7 +508,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 435.
 LaTeX Info: Redefining \% on input line 435.
- [34]
+ [36]
 Overfull \hbox (1.23686pt too wide) in paragraph at lines 446--447
 \OT1/bch/m/n/10.95 acerc[]ando-se y re-vi-san-do el dial de pre-si[]on gravitac
 ional---
@@ -508,7 +517,7 @@ ional---
 
 Underfull \vbox (badness 3579) has occurred while \output is active []
 
- [35]
+ [37]
 Overfull \hbox (0.59079pt too wide) in paragraph at lines 452--453
 \OT1/bch/m/n/10.95 pues-tos, es-qui-van-do a los cha-ta-rre-ros que in-ten-ta-b
 an ven-
@@ -522,7 +531,7 @@ o---
 
 LaTeX Info: Redefining \. on input line 464.
 LaTeX Info: Redefining \% on input line 464.
-[36] [37]
+[38] [39]
 Overfull \hbox (7.93298pt too wide) in paragraph at lines 486--487
 []\OT1/bch/m/n/10.95 ---!`Mierda, ma-ni-to, pa-re-ce que flo-ta en se-da! ---ex
 clam[]o
@@ -536,14 +545,14 @@ qui-
 
 LaTeX Info: Redefining \. on input line 497.
 LaTeX Info: Redefining \% on input line 497.
-[38] [39]
+[40] [41]
 LaTeX Info: Redefining \. on input line 511.
 LaTeX Info: Redefining \% on input line 511.
- [40
+ [42
 
 ]
 Cap\'{\i }tulo 6.
-[41]
+[43]
 Overfull \hbox (7.29787pt too wide) in paragraph at lines 521--522
 []\OT1/bch/m/n/10.95 ---!`Unika, ne-ce-si-to el des-fa-se aho-ra! ---exclam[]o 
 Nathan,
@@ -560,7 +569,7 @@ Underfull \vbox (badness 3579) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 532.
 LaTeX Info: Redefining \% on input line 532.
- [42]
+ [44]
 Overfull \hbox (4.43988pt too wide) in paragraph at lines 535--536
 []\OT1/bch/m/n/10.95 ---Pero no ca[]^^P ---sonri[]o Nathan, baj[]ando-se de la 
 moto---
@@ -593,7 +602,7 @@ Overfull \hbox (10.0135pt too wide) in paragraph at lines 543--544
 
 Underfull \vbox (badness 2065) has occurred while \output is active []
 
- [43]
+ [45]
 Overfull \hbox (5.55678pt too wide) in paragraph at lines 561--562
 []\OT1/bch/m/n/10.95 La ma[]nana de la ca-rre-ra lleg[]o con una tor-men-ta el[
 ]ectri-
@@ -601,26 +610,26 @@ Overfull \hbox (5.55678pt too wide) in paragraph at lines 561--562
 
 LaTeX Info: Redefining \. on input line 566.
 LaTeX Info: Redefining \% on input line 566.
-[44] [45]
+[46] [47]
 LaTeX Info: Redefining \. on input line 610.
 LaTeX Info: Redefining \% on input line 610.
- [46]
+ [48]
 Cap\'{\i }tulo 7.
-[47
+[49
 
 ]
 Underfull \vbox (badness 2065) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 633.
 LaTeX Info: Redefining \% on input line 633.
- [48]
+ [50]
 Underfull \vbox (badness 1303) has occurred while \output is active []
 
- [49]
+ [51]
 LaTeX Info: Redefining \. on input line 665.
 LaTeX Info: Redefining \% on input line 665.
 
-[50]
+[52]
 Overfull \hbox (3.12589pt too wide) in paragraph at lines 672--673
 []\OT1/bch/m/n/10.95 ---Gu[]arde-se su pa-ra[]^^Pso de pl[]asti-co ---sentenci[
 ]o Nathan,
@@ -632,10 +641,10 @@ Overfull \hbox (3.03827pt too wide) in paragraph at lines 676--677
 ntinu[]o
  []
 
-[51]
+[53]
 LaTeX Info: Redefining \. on input line 707.
 LaTeX Info: Redefining \% on input line 707.
- [52]
+ [54]
 Cap\'{\i }tulo 8.
 
 Overfull \hbox (1.74057pt too wide) in paragraph at lines 711--712
@@ -643,15 +652,15 @@ Overfull \hbox (1.74057pt too wide) in paragraph at lines 711--712
 r[]afi-
  []
 
-[53
+[55
 
 ]
 LaTeX Info: Redefining \. on input line 730.
 LaTeX Info: Redefining \% on input line 730.
- [54]
+ [56]
 Underfull \vbox (badness 1303) has occurred while \output is active []
 
- [55]
+ [57]
 Overfull \hbox (7.34158pt too wide) in paragraph at lines 749--750
 []\OT1/bch/m/n/10.95 Guiados por los guar-dias ha-cia los ni-ve-les sub-terr[]a
 neos,
@@ -659,12 +668,12 @@ neos,
 
 LaTeX Info: Redefining \. on input line 762.
 LaTeX Info: Redefining \% on input line 762.
-[56] [57]
+[58] [59]
 Underfull \vbox (badness 1303) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 792.
 LaTeX Info: Redefining \% on input line 792.
- [58]
+ [60]
 Overfull \hbox (0.77153pt too wide) in paragraph at lines 793--794
 []\OT1/bch/m/n/10.95 La na-ve en-te-ra es-tall[]o en gri-tos, sal-tos y abra-zo
 s. Sony,
@@ -689,7 +698,7 @@ l.809 }
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
-[59] (./COMPILADO_libro_PROFESIONAL.aux
+[61] (./COMPILADO_libro_PROFESIONAL.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 )
@@ -699,8 +708,8 @@ L3 programming layer <2026-07-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 10075 strings out of 467159
- 160257 string characters out of 5413461
+ 10077 strings out of 467159
+ 160271 string characters out of 5413461
  598072 words of memory out of 5000000
  39187 multiletter control sequences out of 15000+600000
  651060 words of font info for 67 fonts, out of 8000000 for 9000
@@ -710,10 +719,10 @@ Here is how much of TeX's memory you used:
 ve/2026/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb><c:/texlive/2026/tex
 mf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb><c:/texlive/2026/texmf-dist/fon
 ts/type1/bitstrea/charter/bchri8a.pfb>
-Output written on COMPILADO_libro_PROFESIONAL.pdf (63 pages, 158310 bytes).
+Output written on COMPILADO_libro_PROFESIONAL.pdf (65 pages, 159615 bytes).
 PDF statistics:
- 372 PDF objects out of 1000 (max. 8388607)
- 296 compressed objects within 3 object streams
- 81 named destinations out of 1000 (max. 500000)
+ 381 PDF objects out of 1000 (max. 8388607)
+ 302 compressed objects within 4 object streams
+ 83 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
