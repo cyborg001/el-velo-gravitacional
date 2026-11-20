@@ -30,7 +30,7 @@ Esa voz, cargada de una energía eléctrica que rivalizaba con los condensadores
 
 —¡Mierda, manito, pero tú te has vuelto un topo! —exclamó Rafa, dándole un choque de hombros—. Escuché que el viejo Charlie se botó y te soltó la motowave. No está mal para ser chatarra del Distrito, ¿eh?
 
-—No la llames chatarra, loco —dijo Nathan con una sonrisa, aunque su tono dominicano marcaba el respeto por la máquina—. Es un proyecto. Y uno grande.
+—No la llames chatarra, loco —dijo Nathan con una sonrisa, aunque su tono caribeño marcaba el respeto por la máquina—. Es un proyecto. Y uno grande.
 
 —Relájate, hermano, yo sé que para ti esto es oro. —Rafa dejó caer su mochila y se asomó al interior del motor—. Pero deja que el experto le eche un ojo a ese sistema eléctrico. Eso parece un nido de serpientes muertas de Goglee City. Yo te ayudo con la electrónica, que tú sabes que en eso soy el final.
 
@@ -68,7 +68,7 @@ Charlie, que observaba la escena desde la puerta, intervino con voz tranquila pe
 
 Nathan miró a su alrededor. Estaban todos allí: su padre, su mejor amigo, su prima artista y la mente científica de Unika. Gente que no tenía nada, pero que estaba dispuesta a darle lo poco que tenían para que él pudiera volar.
 
-—Gracias —dijo Nathan, sintiendo que la garganta se le cerraba un poco. Su acento dominicano se volvió más suave, más sentido—. No sé cómo agradecerles esto.
+—Gracias —dijo Nathan, sintiendo que la garganta se le cerraba un poco. Su acento caribeño se volvió más suave, más sentido—. No sé cómo agradecerles esto.
 
 —No digas nada, manito —le cortó Rafa, dándole una palmada en la espalda—. Solo gana esa maldita carrera por nosotros.
 
