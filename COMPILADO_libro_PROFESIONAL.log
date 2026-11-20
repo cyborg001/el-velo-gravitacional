@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.17)  20 NOV 2026 05:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.17)  20 NOV 2026 05:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -515,7 +515,7 @@ ional---
  []
 
 
-Underfull \vbox (badness 3579) has occurred while \output is active []
+Underfull \vbox (badness 2065) has occurred while \output is active []
 
  [37]
 Overfull \hbox (0.59079pt too wide) in paragraph at lines 452--453
@@ -529,8 +529,8 @@ Overfull \hbox (2.38129pt too wide) in paragraph at lines 462--463
 o---
  []
 
-LaTeX Info: Redefining \. on input line 464.
-LaTeX Info: Redefining \% on input line 464.
+LaTeX Info: Redefining \. on input line 465.
+LaTeX Info: Redefining \% on input line 465.
 [38] [39]
 Overfull \hbox (7.93298pt too wide) in paragraph at lines 486--487
 []\OT1/bch/m/n/10.95 ---!`Mierda, ma-ni-to, pa-re-ce que flo-ta en se-da! ---ex
@@ -543,9 +543,13 @@ Overfull \hbox (5.71007pt too wide) in paragraph at lines 488--489
 qui-
  []
 
-LaTeX Info: Redefining \. on input line 497.
-LaTeX Info: Redefining \% on input line 497.
-[40] [41]
+
+Underfull \vbox (badness 1303) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 499.
+LaTeX Info: Redefining \% on input line 499.
+ [40]
+[41]
 LaTeX Info: Redefining \. on input line 511.
 LaTeX Info: Redefining \% on input line 511.
  [42
@@ -719,7 +723,7 @@ Here is how much of TeX's memory you used:
 ve/2026/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb><c:/texlive/2026/tex
 mf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb><c:/texlive/2026/texmf-dist/fon
 ts/type1/bitstrea/charter/bchri8a.pfb>
-Output written on COMPILADO_libro_PROFESIONAL.pdf (65 pages, 159949 bytes).
+Output written on COMPILADO_libro_PROFESIONAL.pdf (65 pages, 159943 bytes).
 PDF statistics:
  381 PDF objects out of 1000 (max. 8388607)
  302 compressed objects within 4 object streams
