@@ -20,7 +20,7 @@ for i, chapter_file in enumerate(chapters):
     chapter_path = os.path.join(base_path, chapter_file)
     if os.path.exists(chapter_path):
         # Add Part headers for organization
-        if i == 1: # Before Chapter 1
+        if i == 0: # Before Chapter 1
             full_content += "\n# PARTE I: EL APRENDIZAJE\n\n"
         elif i == 4: # Before Chapter 4
             full_content += "\n# PARTE II: EL VELO\n\n"

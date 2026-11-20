@@ -38,7 +38,7 @@ Cuando llegó, el viejo estaba sentado sobre una caja de municiones vacía, con 
 
 El Tocayo escupió a un lado y pateó una lona negra. Debajo, descansaba una pieza de geometría compleja, con aletas de refrigeración de cerámica y un puerto de conexión dorado. Un estabilizador de fase T-9. Grado militar.
 
-—Es una belleza de la vieja Guardia —dijo el Tocayo—. Quinientos créditos. Y no acepto promesas, solo créditos fríos.
+—Es una belleza de la vieja Guardia —dijo el Tocayo—. Quinientos créditos. Y no acepto promesas, solo transferencia directa.
 
 —Casi no tenemos esa cantidad —dijo una voz a la espalda de Nathan.
 

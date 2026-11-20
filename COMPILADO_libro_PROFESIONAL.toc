@@ -1,10 +1,11 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{\numberline {1}EL FÉNIX}{1}{chapter.1}%
-\contentsline {chapter}{\numberline {2}PRIMEROS PASOS}{7}{chapter.2}%
-\contentsline {chapter}{\numberline {3}EL CÍRCULO}{13}{chapter.3}%
-\contentsline {chapter}{\numberline {4}EL VIEJO TORO}{21}{chapter.4}%
-\contentsline {chapter}{\numberline {5}EL VELO}{29}{chapter.5}%
-\contentsline {chapter}{\numberline {6}EL PESO DE LA GRAVEDAD}{31}{chapter.6}%
-\contentsline {chapter}{\numberline {7}CHISPAS EN EL ÓXIDO}{39}{chapter.7}%
-\contentsline {chapter}{\numberline {8}EL VELO GRAVITACIONAL}{45}{chapter.8}%
-\contentsline {chapter}{\numberline {9}FUERA DE TIEMPO}{53}{chapter.9}%
+\contentsline {part}{I\hspace {1em}EL APRENDIZAJE}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}EL FÉNIX}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}PRIMEROS PASOS}{9}{chapter.2}%
+\contentsline {chapter}{\numberline {3}EL CÍRCULO}{15}{chapter.3}%
+\contentsline {chapter}{\numberline {4}EL VIEJO TORO}{23}{chapter.4}%
+\contentsline {part}{II\hspace {1em}EL VELO}{31}{part.2}%
+\contentsline {chapter}{\numberline {5}EL PESO DE LA GRAVEDAD}{33}{chapter.5}%
+\contentsline {chapter}{\numberline {6}CHISPAS EN EL ÓXIDO}{41}{chapter.6}%
+\contentsline {chapter}{\numberline {7}EL VELO GRAVITACIONAL}{47}{chapter.7}%
+\contentsline {chapter}{\numberline {8}FUERA DE TIEMPO}{53}{chapter.8}%

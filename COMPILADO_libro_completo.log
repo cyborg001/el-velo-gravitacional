@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.17)  16 NOV 2026 22:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.17)  20 NOV 2026 04:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -324,35 +324,47 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 ]
 Cap\'{\i }tulo 1.
 
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.33 
+l.31 
       [1
 
 ]
-LaTeX Info: Redefining \. on input line 53.
-LaTeX Info: Redefining \% on input line 53.
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.53 
-      [2] [3]
-LaTeX Info: Redefining \. on input line 89.
-LaTeX Info: Redefining \% on input line 89.
- [4]
+l.52 -
+      --Está viva, mijo. Llevas desde los catorce probando los deslizadores...
+[2] [3]
+! You can't use `macro parameter character #' in vertical mode.
+l.88 #
+       PARTE I: EL APRENDIZAJE
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+[4]
 Cap\'{\i }tulo 2.
 [5
 
 ]
-LaTeX Info: Redefining \. on input line 142.
-LaTeX Info: Redefining \% on input line 142.
+LaTeX Info: Redefining \. on input line 143.
+LaTeX Info: Redefining \% on input line 143.
  [6] [7]
-LaTeX Info: Redefining \. on input line 190.
-LaTeX Info: Redefining \% on input line 190.
+LaTeX Info: Redefining \. on input line 191.
+LaTeX Info: Redefining \% on input line 191.
  [8]
 Cap\'{\i }tulo 3.
 [9
@@ -361,63 +373,79 @@ Cap\'{\i }tulo 3.
 LaTeX Info: Redefining \. on input line 242.
 LaTeX Info: Redefining \% on input line 242.
  [10] [11]
-LaTeX Info: Redefining \. on input line 309.
-LaTeX Info: Redefining \% on input line 309.
+LaTeX Info: Redefining \. on input line 310.
+LaTeX Info: Redefining \% on input line 310.
  [12]
 Cap\'{\i }tulo 4.
 [13
 
 ]
-LaTeX Info: Redefining \. on input line 358.
-LaTeX Info: Redefining \% on input line 358.
+LaTeX Info: Redefining \. on input line 359.
+LaTeX Info: Redefining \% on input line 359.
  [14] [15]
 ! You can't use `macro parameter character #' in vertical mode.
-l.415 #
+l.416 #
         PARTE II: EL VELO
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-LaTeX Info: Redefining \. on input line 417.
-LaTeX Info: Redefining \% on input line 417.
+LaTeX Info: Redefining \. on input line 418.
+LaTeX Info: Redefining \% on input line 418.
 [16]
 Cap\'{\i }tulo 5.
 [17
 
 ]
-LaTeX Info: Redefining \. on input line 458.
-LaTeX Info: Redefining \% on input line 458.
+LaTeX Info: Redefining \. on input line 459.
+LaTeX Info: Redefining \% on input line 459.
  [18] [19]
-LaTeX Info: Redefining \. on input line 508.
-LaTeX Info: Redefining \% on input line 508.
+LaTeX Info: Redefining \. on input line 509.
+LaTeX Info: Redefining \% on input line 509.
  [20]
 Cap\'{\i }tulo 6.
 [21
 
 ]
-LaTeX Info: Redefining \. on input line 557.
-LaTeX Info: Redefining \% on input line 557.
+LaTeX Info: Redefining \. on input line 558.
+LaTeX Info: Redefining \% on input line 558.
  [22] [23]
-LaTeX Info: Redefining \. on input line 607.
-LaTeX Info: Redefining \% on input line 607.
+LaTeX Info: Redefining \. on input line 608.
+LaTeX Info: Redefining \% on input line 608.
  [24]
 Cap\'{\i }tulo 7.
 [25
 
 ]
-LaTeX Info: Redefining \. on input line 660.
-LaTeX Info: Redefining \% on input line 660.
+LaTeX Info: Redefining \. on input line 661.
+LaTeX Info: Redefining \% on input line 661.
  [26]
-Overfull \hbox (18.75931pt too wide) in paragraph at lines 685--686
+Overfull \hbox (18.75931pt too wide) in paragraph at lines 686--687
 []\OT1/cmr/m/n/12 ---Eso es, Nathan... ---susurr^^So Sony, ajus-tan-do su mo-ch
 i-la lle-na de ex-plo-si-vos electr^^Sonicos---
  []
 
 [27]
-LaTeX Info: Redefining \. on input line 699.
-LaTeX Info: Redefining \% on input line 699.
- [28] (./COMPILADO_libro_completo.aux
+LaTeX Info: Redefining \. on input line 705.
+LaTeX Info: Redefining \% on input line 705.
+ [28]
+Cap\'{\i }tulo 8.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 748.
+LaTeX Info: Redefining \% on input line 748.
+ [30]
+[31]
+LaTeX Info: Redefining \. on input line 809.
+LaTeX Info: Redefining \% on input line 809.
+ [32] (./COMPILADO_libro_completo.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -425,27 +453,34 @@ LaTeX Info: Redefining \% on input line 11.
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
  ***********
-Package rerunfilecheck Info: File `COMPILADO_libro_completo.out' has not change
-d.
-(rerunfilecheck)             Checksum: 152206F65C0C5942BC5FE90DFE4CA9F1;887.
+
+
+Package rerunfilecheck Warning: File `COMPILADO_libro_completo.out' has changed
+.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `COMPILADO_libro_completo.out':
+(rerunfilecheck)             Before: 152206F65C0C5942BC5FE90DFE4CA9F1;887
+(rerunfilecheck)             After:  C54227199AB7733EA001B918F2B0E944;1011.
  ) 
 Here is how much of TeX's memory you used:
- 9709 strings out of 467159
- 153806 string characters out of 5413461
- 598502 words of memory out of 5000000
- 38879 multiletter control sequences out of 15000+600000
+ 9718 strings out of 467159
+ 153881 string characters out of 5413461
+ 597501 words of memory out of 5000000
+ 38880 multiletter control sequences out of 15000+600000
  631442 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,7n,79p,1047b,483s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,7n,79p,1056b,483s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
 live/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/202
 6/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2026/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/texlive/2026/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmti12.pfb>
-Output written on COMPILADO_libro_completo.pdf (32 pages, 141517 bytes).
+Output written on COMPILADO_libro_completo.pdf (36 pages, 153286 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 173 compressed objects within 2 object streams
- 44 named destinations out of 1000 (max. 500000)
+ 240 PDF objects out of 1000 (max. 8388607)
+ 190 compressed objects within 2 object streams
+ 52 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 

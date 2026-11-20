@@ -12,11 +12,11 @@ Encontraron el puesto del Tocayo oculto tras una cortina de cables eléctricos q
 
 —Los chicos de la motowave —gruñó el Tocayo, dejando escapar una nube de vapor químico de sus pulmones artificiales—. ¿Me trajeron el "cariño" o vinieron a hacerme perder el tiempo?
 
-Nathan sacó un fajo de créditos arrugados, el fruto de su sudor y sus noches en vela.
+Nathan acercó su terminal al lector y preparó la transferencia de créditos, el fruto de su sudor y sus noches en vela.
 
 —Quinientos créditos, Tocayo. Lo prometido por el par de propulsores gravitacionales Clase 3.
 
-El Tocayo empezó a validar los créditos con una lentitud exasperante, pero antes de que pudiera terminar, una sombra se proyectó sobre el mostrador.
+El Tocayo empezó a validar la transferencia en su visor con una lentitud exasperante, pero antes de que pudiera terminar, una sombra se proyectó sobre el mostrador.
 
 —Esa mercancía ya tenía nombre, viejo —dijo una voz que cortó el aire como una cuchilla.
 
@@ -24,7 +24,7 @@ Nathan se giró. Frente a él estaba una chica que parecía haber nacido del mis
 
 —Oye, chico, busca tus piezas en otro lado —dijo ella, con un acento caribeño, parecido al de Nathan y sus amigos pero algo distinto que le daba ritmo a su amenaza—. Esos inductores me pertenecen por reserva de palabra.
 
-—En la Plaza no hay palabras, niña —soltó el Tocayo con una risa metálica—. Solo hay créditos sobre la mesa. Y estos muchachos pagaron primero.
+—En la Plaza no hay palabras, niña —soltó el Tocayo con una risa metálica—. Solo hay créditos verificados. Y estos muchachos pagaron primero.
 
 La chica se acercó a Nathan, invadiendo su espacio personal. Era un poco mayor que él, y su presencia desprendía un olor a pólvora y lluvia ácida. Lo estudió de arriba abajo, deteniéndose en sus manos manchadas de aceite.
 
